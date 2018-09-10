@@ -1,0 +1,7 @@
+﻿  graph.cpp
+  main.cpp
+  Generating code
+c:\users\michal\documents\visual studio 2017\projects\cs 251 project 6 divvy graph analysis\cs 251 project 6 divvy graph analysis\main.cpp(345): warning C4715: 'FindStation': not all control paths return a value
+  All 882 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CS 251 Project 6 Divvy Graph Analysis.vcxproj -> C:\Users\Michal\documents\visual studio 2017\Projects\CS 251 Project 6 Divvy Graph Analysis\Release\CS 251 Project 6 Divvy Graph Analysis.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\michal\documents\visual studio 2017\projects\cs 251 project 6 divvy graph analysis\cs 251 project 6 divvy graph analysis\main.cpp(238): warning C4715: 'FindStation': not all control paths return a value
+  CS 251 Project 6 Divvy Graph Analysis.vcxproj -> C:\Users\Michal\documents\visual studio 2017\Projects\CS 251 Project 6 Divvy Graph Analysis\Debug\CS 251 Project 6 Divvy Graph Analysis.exe
+  CS 251 Project 6 Divvy Graph Analysis.vcxproj -> C:\Users\Michal\documents\visual studio 2017\Projects\CS 251 Project 6 Divvy Graph Analysis\Debug\CS 251 Project 6 Divvy Graph Analysis.pdb (Partial PDB)

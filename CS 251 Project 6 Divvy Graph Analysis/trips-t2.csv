@@ -1,0 +1,701 @@
+trip_id,starttime,stoptime,bikeid,tripduration,from_station_id,from_station_name,to_station_id,to_station_name,usertype,gender,birthyear
+9080542,3/31/2016 23:22,3/31/2016 23:30,208,463,9090,Millennium Park,9174,Canal St & Madison St,Subscriber,Male,1986
+9080531,3/31/2016 23:07,3/31/2016 23:18,1759,650,9031,Franklin St & Chicago Ave,9210,Ashland Ave & Division St,Subscriber,Male,1990
+9080520,3/31/2016 22:57,3/31/2016 23:05,3280,492,9005,State St & Harrison St,9098,LaSalle St & Washington St,Subscriber,Male,1992
+9080510,3/31/2016 22:41,3/31/2016 22:51,2963,612,9256,Broadway & Sheridan Rd,9349,Halsted St & Wrightwood Ave,Subscriber,Male,1976
+9080498,3/31/2016 22:33,3/31/2016 22:44,2207,653,9127,Lincoln Ave & Fullerton Ave,9058,Marshfield Ave & Cortland St,Subscriber,Male,1989
+9080488,3/31/2016 22:27,3/31/2016 22:30,2008,150,9174,Canal St & Madison St,9075,Canal St & Jackson Blvd,Subscriber,Male,1979
+9080475,3/31/2016 22:22,3/31/2016 22:41,3760,1181,9318,Southport Ave & Irving Park Rd,9458,Broadway & Thorndale Ave,Subscriber,Female,1979
+9080461,3/31/2016 22:15,3/31/2016 22:26,2777,614,9374,Western Ave & Walton St,9016,Paulina Ave & North Ave,Subscriber,Male,1991
+9080451,3/31/2016 22:12,3/31/2016 22:19,494,421,9067,Sheffield Ave & Fullerton Ave,9340,Clark St & Wrightwood Ave,Subscriber,Male,1990
+9080440,3/31/2016 22:07,3/31/2016 22:14,2579,419,9226,Racine Ave & Belmont Ave,9250,Ashland Ave & Wellington Ave,Subscriber,Male,1990
+9080430,3/31/2016 22:04,3/31/2016 22:08,1680,225,9344,Ravenswood Ave & Lawrence Ave,9242,Damen Ave & Leland Ave,Subscriber,Female,1987
+9080420,3/31/2016 22:01,3/31/2016 22:09,602,480,9013,Wilton Ave & Diversey Pkwy,9229,Southport Ave & Roscoe St,Subscriber,Male,1981
+9080409,3/31/2016 21:58,3/31/2016 22:12,2907,847,9190,Southport Ave & Wrightwood Ave,9296,Broadway & Belmont Ave,Subscriber,Male,1990
+9080398,3/31/2016 21:51,3/31/2016 22:06,2387,890,9133,Kingsbury St & Kinzie St,9017,Wood St & Division St,Subscriber,Female,1990
+9080387,3/31/2016 21:45,3/31/2016 22:02,874,1012,9289,Wells St & Concord Ln,9157,Lake Shore Dr & Wellington Ave,Subscriber,Female,1971
+9080375,3/31/2016 21:42,3/31/2016 21:54,3862,742,9241,Morgan St & Polk St,9434,Ogden Ave & Roosevelt Rd,Subscriber,Male,1991
+9080363,3/31/2016 21:38,3/31/2016 21:52,1090,838,9047,State St & Kinzie St,9268,Lake Shore Dr & North Blvd,Subscriber,Male,1989
+9080347,3/31/2016 21:36,3/31/2016 21:47,1300,645,9328,Ellis Ave & 58th St,9247,Shore Dr & 55th St,Subscriber,Female,1995
+9080328,3/31/2016 21:32,3/31/2016 21:37,1128,315,9114,Sheffield Ave & Addison St,9227,Southport Ave & Waveland Ave,Subscriber,Male,1990
+9080313,3/31/2016 21:29,3/31/2016 21:34,1169,317,9144,Larrabee St & Webster Ave,9224,Halsted St & Willow St,Subscriber,Male,1990
+9080299,3/31/2016 21:26,3/31/2016 21:49,143,1422,9144,Larrabee St & Webster Ave,9256,Broadway & Sheridan Rd,Subscriber,Male,1980
+9080288,3/31/2016 21:24,3/31/2016 21:36,785,757,9342,Wolcott Ave & Polk St,9128,Damen Ave & Chicago Ave,Subscriber,Male,1993
+9080278,3/31/2016 21:22,3/31/2016 21:31,2626,586,9337,Clark St & Chicago Ave,9052,Michigan Ave & Lake St,Subscriber,Female,1991
+9080267,3/31/2016 21:19,3/31/2016 21:36,3942,996,9089,Financial Pl & Congress Pkwy,9015,Racine Ave & 18th St,Subscriber,Male,1988
+9080253,3/31/2016 21:17,3/31/2016 21:23,2141,356,9325,Clark St & Winnemac Ave,9234,Clark St & Montrose Ave,Subscriber,Male,1979
+9080242,3/31/2016 21:16,3/31/2016 23:29,4828,8015,9305,Western Ave & Division St,9305,Western Ave & Division St,Customer,,
+9080229,3/31/2016 21:14,3/31/2016 21:23,3096,544,9313,Lakeview Ave & Fullerton Pkwy,9300,Broadway & Barry Ave,Subscriber,Female,1981
+9080216,3/31/2016 21:11,3/31/2016 21:24,1282,770,9181,LaSalle St & Illinois St,9039,Wabash Ave & Adams St,Customer,,
+9080203,3/31/2016 21:08,3/31/2016 21:14,3131,313,9240,Sheridan Rd & Irving Park Rd,9256,Broadway & Sheridan Rd,Subscriber,Male,1992
+9080190,3/31/2016 21:05,3/31/2016 21:12,3522,399,9414,Canal St & Taylor St,9394,Clark St & 9th St (AMLI),Subscriber,Female,1987
+9080176,3/31/2016 21:03,3/31/2016 21:11,4198,434,9196,Cityfront Plaza Dr & Pioneer Ct,9099,Lake Shore Dr & Ohio St,Subscriber,Male,1987
+9080161,3/31/2016 20:59,3/31/2016 21:12,109,755,9242,Damen Ave & Leland Ave,9312,Clarendon Ave & Gordon Ter,Subscriber,Male,1992
+9080136,3/31/2016 20:54,3/31/2016 21:05,2053,658,9267,Lake Park Ave & 47th St,9336,Cottage Grove Ave & 47th St,Customer,,
+9080122,3/31/2016 20:50,3/31/2016 21:03,585,776,9374,Western Ave & Walton St,9116,Western Ave & Winnebago Ave,Subscriber,Male,1956
+9080110,3/31/2016 20:47,3/31/2016 21:08,3651,1242,9080,Aberdeen St & Monroe St,9106,State St & Pearson St,Subscriber,Male,1987
+9080097,3/31/2016 20:44,3/31/2016 21:08,3437,1434,9239,Western Ave & Leland Ave,9128,Damen Ave & Chicago Ave,Subscriber,Male,1988
+9080087,3/31/2016 20:41,3/31/2016 20:48,4018,376,9140,Dearborn Pkwy & Delaware Pl,9359,Larrabee St & Division St,Subscriber,Male,1955
+9080077,3/31/2016 20:39,3/31/2016 20:55,541,954,9338,Calumet Ave & 18th St,9129,Blue Island Ave & 18th St,Subscriber,Female,1986
+9080066,3/31/2016 20:37,3/31/2016 20:42,2801,321,9152,Lincoln Ave & Diversey Pkwy,9117,Wilton Ave & Belmont Ave,Subscriber,Male,1982
+9080052,3/31/2016 20:32,3/31/2016 20:40,1759,475,9182,Wells St & Elm St,9118,Sedgwick St & North Ave,Subscriber,Male,1986
+9080038,3/31/2016 20:30,3/31/2016 20:42,1850,707,9168,Michigan Ave & 14th St,9237,MLK Jr Dr & 29th St,Subscriber,Female,1987
+9080026,3/31/2016 20:27,3/31/2016 20:31,538,247,9109,900 W Harrison St,9075,Canal St & Jackson Blvd,Subscriber,Male,1977
+9080012,3/31/2016 20:24,3/31/2016 20:30,4451,333,9290,Kedzie Ave & Palmer Ct,9503,Drake Ave & Fullerton Ave,Customer,,
+9079998,3/31/2016 20:23,3/31/2016 20:30,1751,426,9290,Kedzie Ave & Palmer Ct,9503,Drake Ave & Fullerton Ave,Subscriber,Male,1979
+9079984,3/31/2016 20:21,3/31/2016 20:28,2185,420,9199,Wabash Ave & Grand Ave,9098,LaSalle St & Washington St,Customer,,
+9079971,3/31/2016 20:19,3/31/2016 20:21,3595,130,9087,Racine Ave & Fullerton Ave,9067,Sheffield Ave & Fullerton Ave,Subscriber,Female,1975
+9079959,3/31/2016 20:17,3/31/2016 20:29,1913,714,9161,Rush St & Superior St,9024,Fairbanks Ct & Grand Ave,Customer,,
+9079947,3/31/2016 20:15,3/31/2016 20:27,2820,708,9268,Lake Shore Dr & North Blvd,9099,Lake Shore Dr & Ohio St,Subscriber,Male,1988
+9079932,3/31/2016 20:11,3/31/2016 20:22,2062,633,9069,Damen Ave & Pierce Ave,9277,Ashland Ave & Grand Ave,Subscriber,Female,1988
+9079922,3/31/2016 20:10,3/31/2016 20:15,4777,334,9275,Ashland Ave & 13th St,9208,Ashland Ave & 21st St,Subscriber,Male,1975
+9079907,3/31/2016 20:08,3/31/2016 20:37,978,1770,9161,Rush St & Superior St,9130,Damen Ave & Division St,Subscriber,Female,1977
+9079896,3/31/2016 20:06,3/31/2016 20:23,1923,1007,9039,Wabash Ave & Adams St,9181,LaSalle St & Illinois St,Customer,,
+9079881,3/31/2016 20:04,3/31/2016 20:16,4725,755,9177,Theater on the Lake,9117,Wilton Ave & Belmont Ave,Subscriber,Male,1991
+9079866,3/31/2016 20:02,3/31/2016 20:14,4831,701,9122,Ogden Ave & Congress Pkwy,9128,Damen Ave & Chicago Ave,Subscriber,Male,1989
+9079851,3/31/2016 20:01,3/31/2016 20:03,305,125,9024,Fairbanks Ct & Grand Ave,9199,Wabash Ave & Grand Ave,Subscriber,Male,1981
+9079839,3/31/2016 20:00,3/31/2016 20:13,30,773,9090,Millennium Park,9031,Franklin St & Chicago Ave,Subscriber,Male,1952
+9079821,3/31/2016 19:57,3/31/2016 20:01,1615,246,9423,University Ave & 57th St,9345,Lake Park Ave & 56th St,Subscriber,Male,1982
+9079810,3/31/2016 19:55,3/31/2016 20:27,2140,1963,9130,Damen Ave & Division St,9014,Morgan St & 18th St,Customer,,
+9079799,3/31/2016 19:53,3/31/2016 20:19,3181,1572,9337,Clark St & Chicago Ave,9163,Damen Ave & Clybourn Ave,Subscriber,Male,1993
+9079789,3/31/2016 19:51,3/31/2016 20:16,1817,1496,9199,Wabash Ave & Grand Ave,9130,Damen Ave & Division St,Subscriber,Male,1968
+9079779,3/31/2016 19:49,3/31/2016 20:08,2602,1119,9199,Wabash Ave & Grand Ave,9350,Ashland Ave & Chicago Ave,Subscriber,Female,1987
+9079768,3/31/2016 19:47,3/31/2016 19:54,1976,423,9133,Kingsbury St & Kinzie St,9112,Green St & Randolph St,Subscriber,Male,1987
+9079751,3/31/2016 19:45,3/31/2016 19:46,3954,66,9048,Larrabee St & Kingsbury St,9048,Larrabee St & Kingsbury St,Subscriber,Male,1986
+9079733,3/31/2016 19:43,4/1/2016 15:26,4829,70977,9133,Kingsbury St & Kinzie St,9049,Dearborn St & Monroe St,Subscriber,Female,1974
+9079716,3/31/2016 19:42,3/31/2016 19:48,1356,398,9176,Clark St & Elm St,9211,St. Clair St & Erie St,Subscriber,Male,1988
+9079704,3/31/2016 19:40,3/31/2016 19:44,2108,221,9502,California Ave & Altgeld St,9260,Kedzie Ave & Milwaukee Ave,Subscriber,Male,1982
+9079687,3/31/2016 19:39,3/31/2016 19:42,435,209,9264,Stetson Ave & South Water St,9196,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Male,1983
+9079677,3/31/2016 19:36,3/31/2016 19:55,4299,1107,9186,Ogden Ave & Race Ave,9376,Artesian Ave & Hubbard St,Subscriber,Male,1972
+9079667,3/31/2016 19:35,3/31/2016 19:45,1524,638,9114,Sheffield Ave & Addison St,9306,Sheridan Rd & Buena Ave,Subscriber,Female,1987
+9079657,3/31/2016 19:34,3/31/2016 19:39,1967,292,9033,State St & Van Buren St,9041,Federal St & Polk St,Subscriber,Male,1983
+9079647,3/31/2016 19:33,3/31/2016 19:37,1964,288,9309,Leavitt St & Armitage Ave,9058,Marshfield Ave & Cortland St,Subscriber,Male,1975
+9079636,3/31/2016 19:30,3/31/2016 19:39,2182,548,9067,Sheffield Ave & Fullerton Ave,9166,Ashland Ave & Wrightwood Ave,Subscriber,Male,1991
+9079625,3/31/2016 19:29,3/31/2016 19:30,606,71,9423,University Ave & 57th St,9423,University Ave & 57th St,Subscriber,Female,1989
+9079614,3/31/2016 19:28,3/31/2016 19:35,1651,468,9198,Green St & Madison St,9133,Kingsbury St & Kinzie St,Subscriber,Male,1963
+9079602,3/31/2016 19:26,3/31/2016 19:31,4154,282,9081,Daley Center Plaza,9195,Columbus Dr & Randolph St,Subscriber,Male,1966
+9079589,3/31/2016 19:25,3/31/2016 19:31,4296,329,9166,Ashland Ave & Wrightwood Ave,9302,Sheffield Ave & Wrightwood Ave,Subscriber,Male,1985
+9079578,3/31/2016 19:24,3/31/2016 19:29,3382,321,9067,Sheffield Ave & Fullerton Ave,9166,Ashland Ave & Wrightwood Ave,Subscriber,Male,1991
+9079566,3/31/2016 19:23,3/31/2016 19:44,1797,1319,9287,Franklin St & Monroe St,9313,Lakeview Ave & Fullerton Pkwy,Subscriber,Male,1964
+9079551,3/31/2016 19:21,3/31/2016 19:26,2557,325,9175,Wells St & Polk St,9059,Wabash Ave & Roosevelt Rd,Subscriber,Female,1978
+9079539,3/31/2016 19:20,3/31/2016 19:36,1324,990,9100,Orleans St & Merchandise Mart Plaza,9214,Damen Ave & Grand Ave,Subscriber,Male,1978
+9079528,3/31/2016 19:18,3/31/2016 19:26,378,492,9118,Sedgwick St & North Ave,9176,Clark St & Elm St,Subscriber,Male,1986
+9079515,3/31/2016 19:17,3/31/2016 19:22,4012,310,9069,Damen Ave & Pierce Ave,9128,Damen Ave & Chicago Ave,Subscriber,Male,1975
+9079501,3/31/2016 19:16,3/31/2016 19:39,132,1410,9275,Ashland Ave & 13th St,9278,Wallace St & 35th St,Subscriber,Female,1977
+9079489,3/31/2016 19:14,3/31/2016 19:38,4607,1443,9285,Wood St & Grand Ave,9127,Lincoln Ave & Fullerton Ave,Subscriber,Male,1993
+9079478,3/31/2016 19:13,3/31/2016 19:20,3320,425,9212,Orleans St & Ohio St,9024,Fairbanks Ct & Grand Ave,Subscriber,Male,1984
+9079462,3/31/2016 19:10,3/31/2016 19:33,2166,1373,9196,Cityfront Plaza Dr & Pioneer Ct,9313,Lakeview Ave & Fullerton Pkwy,Subscriber,Female,1988
+9079450,3/31/2016 19:10,3/31/2016 19:26,3758,970,9176,Clark St & Elm St,9313,Lakeview Ave & Fullerton Pkwy,Subscriber,Female,1992
+9079434,3/31/2016 19:08,3/31/2016 19:16,1882,454,9036,Franklin St & Jackson Blvd,9133,Kingsbury St & Kinzie St,Subscriber,Male,1987
+9079422,3/31/2016 19:08,3/31/2016 19:12,2182,253,9144,Larrabee St & Webster Ave,9067,Sheffield Ave & Fullerton Ave,Subscriber,Male,1990
+9079409,3/31/2016 19:06,3/31/2016 19:29,1169,1366,9287,Franklin St & Monroe St,9144,Larrabee St & Webster Ave,Subscriber,Male,1990
+9079389,3/31/2016 19:04,3/31/2016 19:27,871,1361,9069,Damen Ave & Pierce Ave,9154,Southport Ave & Belmont Ave,Subscriber,Female,1989
+9079377,3/31/2016 19:03,3/31/2016 19:14,4356,630,9090,Millennium Park,9196,Cityfront Plaza Dr & Pioneer Ct,Customer,,
+9079367,3/31/2016 19:02,3/31/2016 19:09,662,441,9174,Canal St & Madison St,9198,Green St & Madison St,Subscriber,Male,1987
+9079356,3/31/2016 19:00,3/31/2016 19:11,2824,622,9344,Ravenswood Ave & Lawrence Ave,9471,Francisco Ave & Foster Ave,Subscriber,Female,1988
+9079346,3/31/2016 19:00,3/31/2016 19:12,818,743,9210,Ashland Ave & Division St,9236,Sedgwick St & Schiller St,Subscriber,Male,1978
+9079336,3/31/2016 18:59,3/31/2016 19:22,131,1371,9112,Green St & Randolph St,9028,Larrabee St & Menomonee St,Subscriber,Female,1977
+9079325,3/31/2016 18:58,3/31/2016 19:04,2334,362,9056,Desplaines St & Kinzie St,9112,Green St & Randolph St,Subscriber,Female,1987
+9079310,3/31/2016 18:57,3/31/2016 19:03,2088,384,9182,Wells St & Elm St,9110,Dearborn St & Erie St,Subscriber,Female,1981
+9079294,3/31/2016 18:56,3/31/2016 19:23,2584,1666,9077,Clinton St & Madison St,9133,Kingsbury St & Kinzie St,Subscriber,Male,1984
+9079277,3/31/2016 18:54,3/31/2016 19:26,2066,1957,9321,Wabash Ave & 8th St,9015,Racine Ave & 18th St,Subscriber,Male,1987
+9079264,3/31/2016 18:53,3/31/2016 18:56,1684,223,9013,Wilton Ave & Diversey Pkwy,9220,Hampden Ct & Diversey Pkwy,Subscriber,Female,1987
+9079253,3/31/2016 18:52,3/31/2016 19:20,2963,1659,9286,Franklin St & Quincy St,9349,Halsted St & Wrightwood Ave,Subscriber,Male,1979
+9079237,3/31/2016 18:50,3/31/2016 19:00,2695,611,9264,Stetson Ave & South Water St,9074,Kingsbury St & Erie St,Subscriber,Male,1984
+9079224,3/31/2016 18:49,3/31/2016 18:59,95,595,9071,Morgan St & Lake St,9036,Franklin St & Jackson Blvd,Subscriber,Male,1980
+9079212,3/31/2016 18:49,3/31/2016 18:55,2237,394,9192,Canal St & Adams St,9044,State St & Randolph St,Subscriber,Male,1979
+9079194,3/31/2016 18:47,3/31/2016 19:14,320,1587,9287,Franklin St & Monroe St,9290,Kedzie Ave & Palmer Ct,Subscriber,Male,1982
+9079183,3/31/2016 18:47,3/31/2016 18:52,252,317,9184,State St & 35th St,9193,State St & 29th St,Subscriber,Female,1988
+9079172,3/31/2016 18:46,3/31/2016 19:05,372,1160,9049,Dearborn St & Monroe St,9214,Damen Ave & Grand Ave,Subscriber,Male,1986
+9079159,3/31/2016 18:45,3/31/2016 18:58,402,783,9225,Halsted St & Dickens Ave,9303,Broadway & Cornelia Ave,Subscriber,Male,1975
+9079147,3/31/2016 18:44,3/31/2016 18:58,4376,824,9212,Orleans St & Ohio St,9224,Halsted St & Willow St,Subscriber,Female,1988
+9079136,3/31/2016 18:43,3/31/2016 18:56,726,765,9017,Wood St & Division St,9216,California Ave & Division St,Subscriber,Male,1986
+9079125,3/31/2016 18:42,3/31/2016 18:46,2615,248,9100,Orleans St & Merchandise Mart Plaza,9111,Sedgwick St & Huron St,Subscriber,Female,1993
+9079112,3/31/2016 18:41,3/31/2016 18:45,1885,211,9144,Larrabee St & Webster Ave,9225,Halsted St & Dickens Ave,Subscriber,Female,1986
+9079102,3/31/2016 18:40,3/31/2016 18:47,4122,407,9031,Franklin St & Chicago Ave,9054,Ogden Ave & Chicago Ave,Subscriber,Male,1966
+9079091,3/31/2016 18:39,3/31/2016 18:47,1434,459,9134,Peoria St & Jackson Blvd,9066,Clinton St & Lake St,Subscriber,Male,1986
+9079079,3/31/2016 18:38,3/31/2016 18:46,1069,510,9161,Rush St & Superior St,9180,Ritchie Ct & Banks St,Subscriber,Female,1958
+9079069,3/31/2016 18:37,3/31/2016 18:49,435,664,9287,Franklin St & Monroe St,9110,Dearborn St & Erie St,Subscriber,Male,1984
+9079057,3/31/2016 18:37,3/31/2016 18:48,4302,664,9053,Wells St & Huron St,9289,Wells St & Concord Ln,Subscriber,Male,1985
+9079043,3/31/2016 18:35,3/31/2016 18:42,1808,373,9210,Ashland Ave & Division St,9305,Western Ave & Division St,Subscriber,Male,1978
+9079031,3/31/2016 18:35,3/31/2016 18:53,2499,1068,9057,Clinton St & Roosevelt Rd,9147,Indiana Ave & 26th St,Subscriber,Male,1976
+9079020,3/31/2016 18:34,3/31/2016 18:49,4458,910,9072,Wabash Ave & 16th St,9072,Wabash Ave & 16th St,Subscriber,Male,1982
+9079006,3/31/2016 18:33,3/31/2016 18:39,3079,358,9091,Clinton St & Washington Blvd,9112,Green St & Randolph St,Subscriber,Female,1983
+9078993,3/31/2016 18:32,3/31/2016 18:34,859,130,9113,Bissell St & Armitage Ave,9223,Clifton Ave & Armitage Ave,Subscriber,Male,1983
+9078978,3/31/2016 18:31,3/31/2016 18:43,2106,729,9075,Canal St & Jackson Blvd,9140,Dearborn Pkwy & Delaware Pl,Subscriber,Male,1987
+9078965,3/31/2016 18:30,3/31/2016 18:40,4250,570,9041,Federal St & Polk St,9370,Calumet Ave & 21st St,Subscriber,Male,1990
+9078951,3/31/2016 18:29,3/31/2016 18:37,1402,481,9119,Ashland Ave & Lake St,9128,Damen Ave & Chicago Ave,Subscriber,Male,1984
+9078937,3/31/2016 18:28,3/31/2016 18:42,3521,803,9213,Leavitt St & North Ave,9123,California Ave & Milwaukee Ave,Subscriber,Female,1989
+9078914,3/31/2016 18:26,3/31/2016 18:29,742,195,9049,Dearborn St & Monroe St,9283,LaSalle St & Jackson Blvd,Subscriber,Male,1984
+9078900,3/31/2016 18:25,3/31/2016 18:47,2272,1328,9286,Franklin St & Quincy St,9061,Wood St & Milwaukee Ave,Subscriber,Male,1984
+9078884,3/31/2016 18:24,3/31/2016 18:29,2466,262,9423,University Ave & 57th St,9345,Lake Park Ave & 56th St,Subscriber,Male,1985
+9078874,3/31/2016 18:24,3/31/2016 18:28,2266,248,9133,Kingsbury St & Kinzie St,9091,Clinton St & Washington Blvd,Subscriber,Male,1964
+9078862,3/31/2016 18:23,3/31/2016 18:47,1979,1431,9164,Franklin St & Lake St,9093,Sheffield Ave & Willow St,Subscriber,Male,1983
+9078848,3/31/2016 18:22,3/31/2016 18:27,790,331,9176,Clark St & Elm St,9145,Mies van der Rohe Way & Chestnut St,Subscriber,Male,1975
+9078836,3/31/2016 18:21,3/31/2016 19:42,3368,4837,9337,Clark St & Chicago Ave,9337,Clark St & Chicago Ave,Customer,,
+9078824,3/31/2016 18:20,3/31/2016 18:50,3978,1784,9177,Theater on the Lake,9454,Broadway & Granville Ave,Subscriber,Male,1985
+9078813,3/31/2016 18:19,3/31/2016 18:26,1130,389,9115,Sheffield Ave & Wellington Ave,9220,Hampden Ct & Diversey Pkwy,Subscriber,Female,1984
+9078802,3/31/2016 18:18,3/31/2016 18:41,3510,1377,9050,Clark St & Congress Pkwy,9263,Rhodes Ave & 32nd St,Subscriber,Male,1977
+9078791,3/31/2016 18:18,3/31/2016 18:28,420,639,9359,Larrabee St & Division St,9066,Clinton St & Lake St,Subscriber,Male,1986
+9078781,3/31/2016 18:17,3/31/2016 18:28,2189,628,9349,Halsted St & Wrightwood Ave,9256,Broadway & Sheridan Rd,Subscriber,Male,1976
+9078768,3/31/2016 18:16,3/31/2016 18:38,2051,1318,9133,Kingsbury St & Kinzie St,9220,Hampden Ct & Diversey Pkwy,Subscriber,Male,1985
+9078756,3/31/2016 18:16,3/31/2016 18:24,4564,473,9182,Wells St & Elm St,9145,Mies van der Rohe Way & Chestnut St,Subscriber,Male,1988
+9078745,3/31/2016 18:15,3/31/2016 18:23,983,449,9437,Washtenaw Ave & 15th St (*),9382,Western Ave & Congress Pkwy,Subscriber,Male,1988
+9078734,3/31/2016 18:14,3/31/2016 18:20,556,354,9340,Clark St & Wrightwood Ave,9152,Lincoln Ave & Diversey Pkwy,Subscriber,Female,1986
+9078722,3/31/2016 18:13,3/31/2016 18:20,3787,388,9164,Franklin St & Lake St,9043,Michigan Ave & Washington St,Subscriber,Male,1994
+9078712,3/31/2016 18:13,3/31/2016 18:38,3649,1502,9076,Lake Shore Dr & Monroe St,9268,Lake Shore Dr & North Blvd,Customer,,
+9078700,3/31/2016 18:12,3/31/2016 18:25,3576,735,9196,Cityfront Plaza Dr & Pioneer Ct,9140,Dearborn Pkwy & Delaware Pl,Subscriber,Male,1989
+9078684,3/31/2016 18:11,3/31/2016 18:26,2231,861,9259,California Ave & Francis Pl,9510,Spaulding Ave & Division St,Subscriber,Female,1983
+9078670,3/31/2016 18:11,3/31/2016 18:16,2584,353,9037,Dearborn St & Adams St,9077,Clinton St & Madison St,Subscriber,Male,1975
+9078658,3/31/2016 18:10,3/31/2016 18:19,2035,542,9287,Franklin St & Monroe St,9108,Halsted St & Polk St,Subscriber,Male,1987
+9078645,3/31/2016 18:09,3/31/2016 18:32,1703,1356,9047,State St & Kinzie St,9220,Hampden Ct & Diversey Pkwy,Subscriber,Male,1987
+9078633,3/31/2016 18:08,3/31/2016 18:23,4694,881,9287,Franklin St & Monroe St,9059,Wabash Ave & Roosevelt Rd,Subscriber,Female,1990
+9078619,3/31/2016 18:08,3/31/2016 18:15,1768,399,9340,Clark St & Wrightwood Ave,9067,Sheffield Ave & Fullerton Ave,Subscriber,Male,1989
+9078606,3/31/2016 18:07,3/31/2016 18:10,1726,153,9463,Clark St & Berwyn Ave,9294,Broadway & Berwyn Ave,Subscriber,Male,1985
+9078591,3/31/2016 18:06,3/31/2016 18:27,4119,1254,9100,Orleans St & Merchandise Mart Plaza,9085,Michigan Ave & Oak St,Subscriber,Male,1985
+9078578,3/31/2016 18:06,3/31/2016 18:13,2332,461,9115,Sheffield Ave & Wellington Ave,9067,Sheffield Ave & Fullerton Ave,Subscriber,Male,1962
+9078562,3/31/2016 18:05,3/31/2016 18:10,118,320,9225,Halsted St & Dickens Ave,9067,Sheffield Ave & Fullerton Ave,Subscriber,Male,1957
+9078551,3/31/2016 18:05,3/31/2016 18:17,236,729,9093,Sheffield Ave & Willow St,9220,Hampden Ct & Diversey Pkwy,Subscriber,Male,1982
+9078538,3/31/2016 18:04,3/31/2016 18:27,991,1373,9161,Rush St & Superior St,9302,Sheffield Ave & Wrightwood Ave,Subscriber,Female,1984
+9078523,3/31/2016 18:03,3/31/2016 18:09,4683,361,9130,Damen Ave & Division St,9158,Milwaukee Ave & Wabansia Ave,Subscriber,Female,1989
+9078508,3/31/2016 18:03,3/31/2016 18:08,3887,301,9047,State St & Kinzie St,9043,Michigan Ave & Washington St,Subscriber,Male,1981
+9078496,3/31/2016 18:02,3/31/2016 18:31,4048,1754,9212,Orleans St & Ohio St,9511,Albany Ave & Bloomingdale Ave,Subscriber,Male,1986
+9078482,3/31/2016 18:01,3/31/2016 18:22,3328,1285,9033,State St & Van Buren St,9035,Streeter Dr & Grand Ave,Customer,,
+9078468,3/31/2016 18:00,3/31/2016 18:05,1795,295,9075,Canal St & Jackson Blvd,9134,Peoria St & Jackson Blvd,Subscriber,Male,1979
+9078454,3/31/2016 18:00,3/31/2016 18:07,3830,439,9098,LaSalle St & Washington St,9033,State St & Van Buren St,Subscriber,Male,1982
+9078441,3/31/2016 17:59,3/31/2016 18:18,2600,1122,9076,Lake Shore Dr & Monroe St,9047,State St & Kinzie St,Customer,,
+9078430,3/31/2016 17:58,3/31/2016 18:16,1327,1044,9134,Peoria St & Jackson Blvd,9088,May St & Randolph St,Subscriber,Male,1980
+9078420,3/31/2016 17:58,3/31/2016 18:05,3255,431,9217,May St & Fulton St,9277,Ashland Ave & Grand Ave,Subscriber,Female,1987
+9078408,3/31/2016 17:57,3/31/2016 18:01,683,208,9313,Lakeview Ave & Fullerton Pkwy,9329,Lake Shore Dr & Diversey Pkwy,Subscriber,Male,1964
+9078396,3/31/2016 17:56,3/31/2016 18:09,4676,743,9460,Clark St & Bryn Mawr Ave,9451,Sheridan Rd & Loyola Ave,Subscriber,Male,1970
+9078385,3/31/2016 17:56,3/31/2016 18:06,2824,588,9143,Sedgwick St & Webster Ave,9117,Wilton Ave & Belmont Ave,Subscriber,Male,1964
+9078370,3/31/2016 17:55,3/31/2016 17:59,2435,183,9114,Sheffield Ave & Addison St,9232,Pine Grove Ave & Waveland Ave,Subscriber,Female,1992
+9078356,3/31/2016 17:55,3/31/2016 18:09,4678,860,9345,Lake Park Ave & 56th St,9322,Kimbark Ave & 53rd St,Subscriber,Male,1960
+9078346,3/31/2016 17:54,3/31/2016 18:01,3033,400,9248,Woodlawn Ave & 55th St,9425,Harper Ave & 59th St,Subscriber,Female,1995
+9078334,3/31/2016 17:54,3/31/2016 18:04,4749,584,9177,Theater on the Lake,9156,Clark St & Wellington Ave,Subscriber,Male,1968
+9078323,3/31/2016 17:53,3/31/2016 17:59,2924,346,9025,Michigan Ave & Pearson St,9110,Dearborn St & Erie St,Subscriber,Male,1985
+9078313,3/31/2016 17:53,3/31/2016 18:25,2817,1944,9035,Streeter Dr & Grand Ave,9055,Halsted St & Roosevelt Rd,Customer,,
+9078301,3/31/2016 17:52,3/31/2016 17:54,3980,148,9212,Orleans St & Ohio St,9212,Orleans St & Ohio St,Subscriber,Male,1982
+9078289,3/31/2016 17:51,3/31/2016 17:54,272,194,9114,Sheffield Ave & Addison St,9304,Broadway & Waveland Ave,Subscriber,Male,1987
+9078279,3/31/2016 17:51,3/31/2016 18:14,1765,1405,9044,State St & Randolph St,9094,Clark St & Armitage Ave,Subscriber,Female,1988
+9078265,3/31/2016 17:50,3/31/2016 18:09,1155,1161,9460,Clark St & Bryn Mawr Ave,9227,Southport Ave & Waveland Ave,Customer,,
+9078254,3/31/2016 17:49,3/31/2016 18:05,704,932,9132,Wentworth Ave & 24th St,9005,State St & Harrison St,Subscriber,Female,1985
+9078243,3/31/2016 17:49,3/31/2016 17:57,397,500,9240,Sheridan Rd & Irving Park Rd,9300,Broadway & Barry Ave,Subscriber,Male,1963
+9078232,3/31/2016 17:49,3/31/2016 17:56,2602,431,9098,LaSalle St & Washington St,9194,Wabash Ave & Wacker Pl,Subscriber,Male,1963
+9078221,3/31/2016 17:48,3/31/2016 17:54,2133,344,9284,Michigan Ave & Jackson Blvd,9255,Indiana Ave & Roosevelt Rd,Subscriber,Male,1985
+9078211,3/31/2016 17:48,3/31/2016 17:54,2946,351,9005,State St & Harrison St,9036,Franklin St & Jackson Blvd,Subscriber,Male,1954
+9078200,3/31/2016 17:47,3/31/2016 17:51,1724,236,9013,Wilton Ave & Diversey Pkwy,9319,Greenview Ave & Diversey Pkwy,Subscriber,Male,1980
+9078188,3/31/2016 17:46,3/31/2016 17:55,4208,539,9053,Wells St & Huron St,9289,Wells St & Concord Ln,Subscriber,Male,1987
+9078172,3/31/2016 17:46,3/31/2016 17:54,134,511,9505,Winchester Ave & Elston Ave,9067,Sheffield Ave & Fullerton Ave,Subscriber,Male,1993
+9078162,3/31/2016 17:45,3/31/2016 17:57,2296,683,9077,Clinton St & Madison St,9054,Ogden Ave & Chicago Ave,Subscriber,Male,1987
+9078149,3/31/2016 17:44,3/31/2016 17:59,3214,928,9047,State St & Kinzie St,9059,Wabash Ave & Roosevelt Rd,Subscriber,Male,1991
+9078138,3/31/2016 17:43,3/31/2016 18:05,685,1291,9024,Fairbanks Ct & Grand Ave,9046,Wells St & Walton St,Subscriber,Female,1991
+9078127,3/31/2016 17:43,3/31/2016 18:00,2690,1025,9091,Clinton St & Washington Blvd,9289,Wells St & Concord Ln,Subscriber,Male,1981
+9078115,3/31/2016 17:42,3/31/2016 17:52,2900,565,9206,Halsted St & Archer Ave,9262,Halsted St & 37th St,Subscriber,Male,1978
+9078105,3/31/2016 17:41,3/31/2016 17:51,1960,584,9173,Mies van der Rohe Way & Chicago Ave,9181,LaSalle St & Illinois St,Subscriber,Female,1988
+9078093,3/31/2016 17:41,3/31/2016 17:48,3210,431,9383,Ashland Ave & Harrison St,9107,Desplaines St & Jackson Blvd,Subscriber,Male,1969
+9078082,3/31/2016 17:40,3/31/2016 17:46,3884,378,9336,Cottage Grove Ave & 47th St,9413,Woodlawn Ave & Lake Park Ave,Subscriber,Male,1965
+9078072,3/31/2016 17:40,3/31/2016 17:43,2975,193,9019,Loomis St & Taylor St (*),9320,Loomis St & Lexington St,Subscriber,Male,1964
+9078061,3/31/2016 17:39,3/31/2016 17:46,3818,419,9288,Larrabee St & Armitage Ave,9268,Lake Shore Dr & North Blvd,Subscriber,Male,1983
+9078050,3/31/2016 17:38,3/31/2016 17:52,4366,830,9043,Michigan Ave & Washington St,9080,Aberdeen St & Monroe St,Subscriber,Male,1988
+9078039,3/31/2016 17:38,3/31/2016 17:45,1331,460,9214,Damen Ave & Grand Ave,9374,Western Ave & Walton St,Subscriber,Male,1964
+9078028,3/31/2016 17:37,3/31/2016 17:53,21,937,9043,Michigan Ave & Washington St,9180,Ritchie Ct & Banks St,Subscriber,Male,1983
+9078016,3/31/2016 17:36,3/31/2016 17:58,3916,1293,9018,Wacker Dr & Washington St,9158,Milwaukee Ave & Wabansia Ave,Subscriber,Male,1966
+9078006,3/31/2016 17:36,3/31/2016 17:50,641,837,9287,Franklin St & Monroe St,9137,Morgan Ave & 14th Pl,Subscriber,Male,1986
+9077994,3/31/2016 17:35,3/31/2016 17:56,2643,1251,9287,Franklin St & Monroe St,9094,Clark St & Armitage Ave,Subscriber,Male,1983
+9077984,3/31/2016 17:35,3/31/2016 17:59,1852,1439,9164,Franklin St & Lake St,9224,Halsted St & Willow St,Subscriber,Female,1951
+9077973,3/31/2016 17:34,3/31/2016 17:41,2293,389,9127,Lincoln Ave & Fullerton Ave,9156,Clark St & Wellington Ave,Subscriber,Female,1985
+9077962,3/31/2016 17:34,3/31/2016 17:38,738,243,9321,Wabash Ave & 8th St,9059,Wabash Ave & Roosevelt Rd,Subscriber,Male,1976
+9077952,3/31/2016 17:33,3/31/2016 17:40,363,429,9181,LaSalle St & Illinois St,9024,Fairbanks Ct & Grand Ave,Subscriber,Male,1961
+9077941,3/31/2016 17:33,3/31/2016 17:38,4816,327,9043,Michigan Ave & Washington St,9018,Wacker Dr & Washington St,Subscriber,Male,1983
+9077929,3/31/2016 17:32,3/31/2016 17:55,1577,1368,9255,Indiana Ave & Roosevelt Rd,9076,Lake Shore Dr & Monroe St,Customer,,
+9077915,3/31/2016 17:32,3/31/2016 17:38,855,355,9050,Clark St & Congress Pkwy,9255,Indiana Ave & Roosevelt Rd,Subscriber,Male,1979
+9077902,3/31/2016 17:31,3/31/2016 17:54,3412,1362,9035,Streeter Dr & Grand Ave,9145,Mies van der Rohe Way & Chestnut St,Customer,,
+9077889,3/31/2016 17:31,3/31/2016 17:52,3274,1255,9039,Wabash Ave & Adams St,9186,Ogden Ave & Race Ave,Subscriber,Female,1981
+9077874,3/31/2016 17:30,3/31/2016 17:49,4058,1129,9077,Clinton St & Madison St,9126,Clark St & North Ave,Subscriber,Male,1976
+9077864,3/31/2016 17:30,3/31/2016 17:36,6,367,9074,Kingsbury St & Erie St,9359,Larrabee St & Division St,Subscriber,Female,1987
+9077852,3/31/2016 17:29,3/31/2016 17:37,3942,444,9021,Aberdeen St & Jackson Blvd,9089,Financial Pl & Congress Pkwy,Subscriber,Male,1955
+9077841,3/31/2016 17:29,3/31/2016 17:44,348,921,9192,Canal St & Adams St,9007,Field Blvd & South Water St,Subscriber,Male,1984
+9077822,3/31/2016 17:28,3/31/2016 17:37,1892,499,9058,Marshfield Ave & Cortland St,9158,Milwaukee Ave & Wabansia Ave,Subscriber,Female,1983
+9077809,3/31/2016 17:28,3/31/2016 17:37,3730,544,9061,Wood St & Milwaukee Ave,9060,Dayton St & North Ave,Subscriber,Male,1957
+9077797,3/31/2016 17:27,3/31/2016 17:35,711,493,9217,May St & Fulton St,9075,Canal St & Jackson Blvd,Subscriber,Male,1980
+9077783,3/31/2016 17:27,3/31/2016 17:37,4564,615,9195,Columbus Dr & Randolph St,9174,Canal St & Madison St,Subscriber,Male,1969
+9077767,3/31/2016 17:26,3/31/2016 17:37,4629,655,9111,Sedgwick St & Huron St,9075,Canal St & Jackson Blvd,Subscriber,Male,1986
+9077756,3/31/2016 17:26,3/31/2016 17:35,2225,543,9192,Canal St & Adams St,9212,Orleans St & Ohio St,Subscriber,Male,1965
+9077741,3/31/2016 17:25,3/31/2016 17:41,2417,933,9097,Museum Campus,9039,Wabash Ave & Adams St,Subscriber,Female,1981
+9077725,3/31/2016 17:24,3/31/2016 17:52,3206,1654,9283,LaSalle St & Jackson Blvd,9069,Damen Ave & Pierce Ave,Subscriber,Female,1981
+9077713,3/31/2016 17:24,3/31/2016 17:26,3262,135,9240,Sheridan Rd & Irving Park Rd,9312,Clarendon Ave & Gordon Ter,Subscriber,Male,1984
+9077698,3/31/2016 17:23,3/31/2016 17:38,4771,897,9047,State St & Kinzie St,9192,Canal St & Adams St,Subscriber,Male,1948
+9077685,3/31/2016 17:23,3/31/2016 17:33,2658,621,9174,Canal St & Madison St,9199,Wabash Ave & Grand Ave,Subscriber,Male,1963
+9077673,3/31/2016 17:22,3/31/2016 17:31,3030,528,9195,Columbus Dr & Randolph St,9091,Clinton St & Washington Blvd,Subscriber,Male,1962
+9077662,3/31/2016 17:22,3/31/2016 17:30,2688,476,9331,Halsted St & Blackhawk St (*),9056,Desplaines St & Kinzie St,Subscriber,Male,1980
+9077650,3/31/2016 17:21,3/31/2016 17:46,2189,1497,9038,Clark St & Lake St,9094,Clark St & Armitage Ave,Subscriber,Female,1993
+9077639,3/31/2016 17:21,3/31/2016 17:28,1123,423,9068,Clinton St & Tilden St,9021,Aberdeen St & Jackson Blvd,Subscriber,Female,1961
+9077629,3/31/2016 17:21,3/31/2016 17:24,1491,209,9118,Sedgwick St & North Ave,9094,Clark St & Armitage Ave,Subscriber,Female,1993
+9077619,3/31/2016 17:20,3/31/2016 17:28,3397,490,9157,Lake Shore Dr & Wellington Ave,9177,Theater on the Lake,Customer,,
+9077609,3/31/2016 17:19,3/31/2016 17:35,4719,922,9047,State St & Kinzie St,9210,Ashland Ave & Division St,Subscriber,Male,1988
+9077597,3/31/2016 17:19,3/31/2016 17:34,3675,928,9066,Clinton St & Lake St,9182,Wells St & Elm St,Subscriber,Female,1986
+9077585,3/31/2016 17:18,3/31/2016 17:30,379,697,9228,Damen Ave & Melrose Ave,9239,Western Ave & Leland Ave,Subscriber,Female,1991
+9077574,3/31/2016 17:18,3/31/2016 17:24,755,389,9197,Michigan Ave & Madison St,9174,Canal St & Madison St,Subscriber,Male,1959
+9077563,3/31/2016 17:18,3/31/2016 17:22,1250,266,9115,Sheffield Ave & Wellington Ave,9153,Southport Ave & Wellington Ave,Subscriber,Female,1981
+9077551,3/31/2016 17:17,3/31/2016 17:23,2719,356,9115,Sheffield Ave & Wellington Ave,9250,Ashland Ave & Wellington Ave,Subscriber,Male,1985
+9077541,3/31/2016 17:17,3/31/2016 17:29,4726,731,9071,Morgan St & Lake St,9033,State St & Van Buren St,Subscriber,Male,1986
+9077530,3/31/2016 17:16,3/31/2016 17:23,2658,397,9044,State St & Randolph St,9174,Canal St & Madison St,Subscriber,Male,1987
+9077519,3/31/2016 17:16,3/31/2016 17:31,883,917,9081,Daley Center Plaza,9126,Clark St & North Ave,Subscriber,Male,1991
+9077504,3/31/2016 17:15,3/31/2016 17:32,4782,1024,9286,Franklin St & Quincy St,9359,Larrabee St & Division St,Subscriber,Male,1986
+9077491,3/31/2016 17:15,3/31/2016 17:34,2464,1127,9242,Damen Ave & Leland Ave,9117,Wilton Ave & Belmont Ave,Subscriber,Male,1960
+9077477,3/31/2016 17:14,3/31/2016 17:34,3369,1185,9098,LaSalle St & Washington St,9035,Streeter Dr & Grand Ave,Subscriber,Male,1987
+9077462,3/31/2016 17:14,3/31/2016 17:24,2715,583,9056,Desplaines St & Kinzie St,9161,Rush St & Superior St,Subscriber,Male,1988
+9077450,3/31/2016 17:14,3/31/2016 17:24,2668,633,9287,Franklin St & Monroe St,9059,Wabash Ave & Roosevelt Rd,Subscriber,Male,1987
+9077438,3/31/2016 17:13,3/31/2016 17:25,841,701,9052,Michigan Ave & Lake St,9133,Kingsbury St & Kinzie St,Subscriber,Female,1983
+9077421,3/31/2016 17:13,3/31/2016 17:18,4710,305,9217,May St & Fulton St,9056,Desplaines St & Kinzie St,Subscriber,Male,1980
+9077405,3/31/2016 17:12,3/31/2016 17:22,4078,563,9173,Mies van der Rohe Way & Chicago Ave,9081,Daley Center Plaza,Subscriber,Male,1983
+9077389,3/31/2016 17:12,3/31/2016 17:20,4366,496,9174,Canal St & Madison St,9043,Michigan Ave & Washington St,Subscriber,Male,1982
+9077375,3/31/2016 17:11,3/31/2016 17:21,288,605,9097,Museum Campus,9097,Museum Campus,Subscriber,Male,1979
+9077360,3/31/2016 17:11,3/31/2016 17:32,698,1245,9111,Sedgwick St & Huron St,9153,Southport Ave & Wellington Ave,Subscriber,Male,1991
+9077345,3/31/2016 17:10,3/31/2016 17:16,2186,347,9069,Damen Ave & Pierce Ave,9159,Claremont Ave & Hirsch St,Subscriber,Female,1983
+9077333,3/31/2016 17:10,3/31/2016 17:17,1483,419,9080,Aberdeen St & Monroe St,9198,Green St & Madison St,Subscriber,Female,1983
+9077319,3/31/2016 17:10,3/31/2016 17:13,4551,219,9080,Aberdeen St & Monroe St,9071,Morgan St & Lake St,Subscriber,Male,1984
+9077307,3/31/2016 17:09,3/31/2016 17:17,3739,451,9167,Damen Ave & Coulter St,9129,Blue Island Ave & 18th St,Subscriber,Female,1981
+9077297,3/31/2016 17:09,3/31/2016 17:32,162,1404,9287,Franklin St & Monroe St,9126,Clark St & North Ave,Subscriber,Male,1956
+9077282,3/31/2016 17:08,3/31/2016 17:13,1845,298,9192,Canal St & Adams St,9056,Desplaines St & Kinzie St,Subscriber,Male,1985
+9077269,3/31/2016 17:08,3/31/2016 17:13,3725,280,9074,Kingsbury St & Erie St,9056,Desplaines St & Kinzie St,Subscriber,Male,1991
+9077257,3/31/2016 17:08,3/31/2016 17:13,1464,352,9199,Wabash Ave & Grand Ave,9111,Sedgwick St & Huron St,Subscriber,Male,1988
+9077243,3/31/2016 17:07,3/31/2016 17:18,3796,672,9194,Wabash Ave & Wacker Pl,9192,Canal St & Adams St,Subscriber,Male,1971
+9077231,3/31/2016 17:06,3/31/2016 17:41,2263,2050,9161,Rush St & Superior St,9207,Emerald Ave & 28th St,Subscriber,Female,1962
+9077214,3/31/2016 17:06,3/31/2016 17:14,2403,465,9195,Columbus Dr & Randolph St,9037,Dearborn St & Adams St,Subscriber,Male,1965
+9077199,3/31/2016 17:05,3/31/2016 17:12,2418,424,9040,LaSalle St & Adams St,9040,LaSalle St & Adams St,Customer,,
+9077188,3/31/2016 17:05,3/31/2016 17:10,4434,315,9284,Michigan Ave & Jackson Blvd,9255,Indiana Ave & Roosevelt Rd,Subscriber,Female,1979
+9077176,3/31/2016 17:04,3/31/2016 17:10,2259,336,9037,Dearborn St & Adams St,9175,Wells St & Polk St,Subscriber,Female,1987
+9077165,3/31/2016 17:04,3/31/2016 17:25,1061,1247,9127,Lincoln Ave & Fullerton Ave,9240,Sheridan Rd & Irving Park Rd,Subscriber,Male,1946
+9077154,3/31/2016 17:03,3/31/2016 17:09,4550,331,9304,Broadway & Waveland Ave,9334,Lake Shore Dr & Belmont Ave,Subscriber,Female,1993
+9077143,3/31/2016 17:03,3/31/2016 17:11,3848,519,9164,Franklin St & Lake St,9052,Michigan Ave & Lake St,Subscriber,Female,1963
+9077130,3/31/2016 17:02,3/31/2016 17:16,3478,854,9233,Sangamon St & Washington Blvd (*),9333,Ashland Ave & Blackhawk St,Subscriber,Male,1975
+9077119,3/31/2016 17:01,3/31/2016 17:07,217,344,9503,Drake Ave & Fullerton Ave,9260,Kedzie Ave & Milwaukee Ave,Subscriber,Male,1985
+9077109,3/31/2016 17:01,3/31/2016 17:18,476,1047,9048,Larrabee St & Kingsbury St,9058,Marshfield Ave & Cortland St,Customer,,
+9077098,3/31/2016 17:00,3/31/2016 17:04,1533,213,9133,Kingsbury St & Kinzie St,9181,LaSalle St & Illinois St,Subscriber,Male,1987
+9077087,3/31/2016 17:00,3/31/2016 17:14,3492,878,9173,Mies van der Rohe Way & Chicago Ave,9052,Michigan Ave & Lake St,Customer,,
+9077076,3/31/2016 16:59,3/31/2016 17:26,216,1602,9192,Canal St & Adams St,9127,Lincoln Ave & Fullerton Ave,Subscriber,Male,1980
+9077066,3/31/2016 16:59,3/31/2016 17:14,563,950,9173,Mies van der Rohe Way & Chicago Ave,9052,Michigan Ave & Lake St,Customer,,
+9077056,3/31/2016 16:58,3/31/2016 17:13,3556,872,9505,Winchester Ave & Elston Ave,9029,Noble St & Milwaukee Ave,Subscriber,Male,1987
+9077044,3/31/2016 16:57,3/31/2016 17:42,3638,2733,9003,Shedd Aquarium,9040,LaSalle St & Adams St,Customer,,
+9077032,3/31/2016 16:57,3/31/2016 17:02,1203,301,9067,Sheffield Ave & Fullerton Ave,9190,Southport Ave & Wrightwood Ave,Subscriber,Male,1990
+9077022,3/31/2016 16:56,3/31/2016 17:03,2395,438,9298,Lincoln Ave & Belle Plaine Ave,9227,Southport Ave & Waveland Ave,Subscriber,Male,1991
+9077010,3/31/2016 16:55,3/31/2016 17:07,4171,721,9089,Financial Pl & Congress Pkwy,9019,Loomis St & Taylor St (*),Subscriber,Male,1992
+9076999,3/31/2016 16:55,3/31/2016 17:03,4058,504,9053,Wells St & Huron St,9077,Clinton St & Madison St,Subscriber,Male,1980
+9076988,3/31/2016 16:54,3/31/2016 16:59,4751,326,9286,Franklin St & Quincy St,9100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1986
+9076975,3/31/2016 16:53,3/31/2016 17:02,1148,551,9090,Millennium Park,9255,Indiana Ave & Roosevelt Rd,Subscriber,Female,1956
+9076965,3/31/2016 16:52,3/31/2016 17:01,234,520,9177,Theater on the Lake,9334,Lake Shore Dr & Belmont Ave,Subscriber,Female,1984
+9076954,3/31/2016 16:52,3/31/2016 17:15,1005,1419,9131,Lincoln Ave & Belmont Ave,9092,Carpenter St & Huron St,Subscriber,Female,1984
+9076942,3/31/2016 16:51,3/31/2016 17:06,1801,914,9048,Larrabee St & Kingsbury St,9374,Western Ave & Walton St,Subscriber,Male,1985
+9076932,3/31/2016 16:50,3/31/2016 17:00,93,561,9049,Dearborn St & Monroe St,9033,State St & Van Buren St,Subscriber,Male,1993
+9076919,3/31/2016 16:50,3/31/2016 16:59,738,537,9049,Dearborn St & Monroe St,9321,Wabash Ave & 8th St,Subscriber,Female,1969
+9076908,3/31/2016 16:49,3/31/2016 16:55,3199,365,9090,Millennium Park,9174,Canal St & Madison St,Subscriber,Male,1983
+9076897,3/31/2016 16:48,3/31/2016 17:07,3214,1145,9474,Christiana Ave & Lawrence Ave,9501,Richmond St & Diversey Ave,Subscriber,Male,1980
+9076887,3/31/2016 16:48,3/31/2016 17:01,2159,806,9125,Rush St & Hubbard St,9075,Canal St & Jackson Blvd,Subscriber,Male,1960
+9076877,3/31/2016 16:47,3/31/2016 17:00,3087,763,9133,Kingsbury St & Kinzie St,9090,Millennium Park,Customer,,
+9076864,3/31/2016 16:47,3/31/2016 16:57,3684,608,9195,Columbus Dr & Randolph St,9191,Canal St & Monroe St (*),Subscriber,Male,1972
+9076853,3/31/2016 16:46,3/31/2016 17:09,54,1411,9076,Lake Shore Dr & Monroe St,9076,Lake Shore Dr & Monroe St,Customer,,
+9076841,3/31/2016 16:45,3/31/2016 16:51,4527,328,9077,Clinton St & Madison St,9056,Desplaines St & Kinzie St,Subscriber,Male,1978
+9076830,3/31/2016 16:45,3/31/2016 16:49,2888,296,9185,Stave St & Armitage Ave,9507,Humboldt Blvd & Armitage Ave,Subscriber,Female,1989
+9076819,3/31/2016 16:44,3/31/2016 16:50,1553,356,9014,Morgan St & 18th St,9241,Morgan St & Polk St,Subscriber,Female,1990
+9076806,3/31/2016 16:43,3/31/2016 16:50,4107,396,9196,Cityfront Plaza Dr & Pioneer Ct,9197,Michigan Ave & Madison St,Subscriber,Male,1975
+9076795,3/31/2016 16:43,3/31/2016 16:58,4777,951,9174,Canal St & Madison St,9350,Ashland Ave & Chicago Ave,Subscriber,Male,1971
+9076784,3/31/2016 16:42,3/31/2016 16:56,416,858,9090,Millennium Park,9126,Clark St & North Ave,Subscriber,Male,1983
+9076773,3/31/2016 16:41,3/31/2016 16:59,4177,1065,9484,Monticello Ave & Irving Park Rd,9505,Winchester Ave & Elston Ave,Subscriber,Male,1990
+9076760,3/31/2016 16:41,3/31/2016 16:44,2970,184,9458,Broadway & Thorndale Ave,9458,Broadway & Thorndale Ave,Subscriber,,1980
+9076746,3/31/2016 16:39,3/31/2016 17:00,3179,1220,9328,Ellis Ave & 58th St,9263,Rhodes Ave & 32nd St,Subscriber,Male,1963
+9076735,3/31/2016 16:39,3/31/2016 16:50,1527,660,9166,Ashland Ave & Wrightwood Ave,9210,Ashland Ave & Division St,Subscriber,Male,1978
+9076723,3/31/2016 16:38,3/31/2016 16:42,2286,267,9210,Ashland Ave & Division St,9183,Damen Ave & Augusta Blvd,Subscriber,Male,1991
+9076710,3/31/2016 16:37,3/31/2016 16:42,65,305,9075,Canal St & Jackson Blvd,9089,Financial Pl & Congress Pkwy,Subscriber,Male,1970
+9076699,3/31/2016 16:36,3/31/2016 16:41,4744,267,9191,Canal St & Monroe St (*),9071,Morgan St & Lake St,Subscriber,Male,1978
+9076682,3/31/2016 16:36,3/31/2016 16:40,3702,255,9005,State St & Harrison St,9037,Dearborn St & Adams St,Subscriber,Male,1969
+9076665,3/31/2016 16:35,3/31/2016 16:51,4121,950,9317,Wood St & Taylor St,9075,Canal St & Jackson Blvd,Subscriber,Male,1969
+9076653,3/31/2016 16:34,3/31/2016 16:46,3181,691,9192,Canal St & Adams St,9337,Clark St & Chicago Ave,Subscriber,Male,1988
+9076638,3/31/2016 16:33,3/31/2016 16:41,2066,496,9199,Wabash Ave & Grand Ave,9286,Franklin St & Quincy St,Subscriber,Male,1982
+9076626,3/31/2016 16:33,3/31/2016 16:36,2097,182,9019,Loomis St & Taylor St (*),9320,Loomis St & Lexington St,Subscriber,Male,1988
+9076608,3/31/2016 16:32,3/31/2016 16:46,4234,852,9286,Franklin St & Quincy St,9176,Clark St & Elm St,Subscriber,Male,1990
+9076584,3/31/2016 16:31,3/31/2016 16:47,3838,980,9076,Lake Shore Dr & Monroe St,9004,Burnham Harbor,Subscriber,Female,1992
+9076567,3/31/2016 16:30,3/31/2016 16:36,2582,349,9174,Canal St & Madison St,9043,Michigan Ave & Washington St,Subscriber,Male,1974
+9076549,3/31/2016 16:29,3/31/2016 16:52,2771,1396,9283,LaSalle St & Jackson Blvd,9219,Damen Ave & Cortland St,Subscriber,Male,1979
+9076534,3/31/2016 16:27,3/31/2016 16:47,4324,1179,9342,Wolcott Ave & Polk St,9091,Clinton St & Washington Blvd,Subscriber,Male,1939
+9076520,3/31/2016 16:27,3/31/2016 16:32,413,284,9245,Clarendon Ave & Junior Ter,9240,Sheridan Rd & Irving Park Rd,Subscriber,Female,1993
+9076505,3/31/2016 16:26,3/31/2016 16:33,4184,420,9287,Franklin St & Monroe St,9110,Dearborn St & Erie St,Subscriber,Male,1959
+9076491,3/31/2016 16:25,3/31/2016 16:29,1301,234,9383,Ashland Ave & Harrison St,9146,Loomis St & Jackson Blvd,Subscriber,Female,1986
+9076473,3/31/2016 16:24,3/31/2016 16:30,3823,379,9241,Morgan St & Polk St,9137,Morgan Ave & 14th Pl,Subscriber,Male,1967
+9076461,3/31/2016 16:23,3/31/2016 16:40,1904,1034,9077,Clinton St & Madison St,9337,Clark St & Chicago Ave,Subscriber,Female,1984
+9076449,3/31/2016 16:22,3/31/2016 16:32,3642,605,9089,Financial Pl & Congress Pkwy,9066,Clinton St & Lake St,Subscriber,Male,1981
+9076433,3/31/2016 16:21,3/31/2016 16:29,4368,459,9195,Columbus Dr & Randolph St,9091,Clinton St & Washington Blvd,Subscriber,Male,1956
+9076420,3/31/2016 16:21,3/31/2016 16:25,4777,223,9051,Clark St & Randolph St,9174,Canal St & Madison St,Subscriber,Male,1954
+9076408,3/31/2016 16:20,3/31/2016 16:35,4674,870,9211,St. Clair St & Erie St,9091,Clinton St & Washington Blvd,Subscriber,Male,1949
+9076389,3/31/2016 16:19,3/31/2016 16:21,273,141,9149,Calumet Ave & 33rd St,9148,State St & 33rd St,Subscriber,Male,1995
+9076377,3/31/2016 16:18,3/31/2016 16:22,4366,206,9192,Canal St & Adams St,9283,LaSalle St & Jackson Blvd,Subscriber,Male,1990
+9076362,3/31/2016 16:18,3/31/2016 17:07,2375,2929,9002,Michigan Ave & Balbo Ave,9194,Wabash Ave & Wacker Pl,Customer,,
+9076347,3/31/2016 16:17,3/31/2016 16:35,2423,1111,9447,Glenwood Ave & Morse Ave,9459,Lakefront Trail & Bryn Mawr Ave,Customer,,
+9076333,3/31/2016 16:15,3/31/2016 16:30,3787,880,9035,Streeter Dr & Grand Ave,9091,Clinton St & Washington Blvd,Subscriber,Male,1959
+9076318,3/31/2016 16:14,3/31/2016 16:21,2800,421,9038,Clark St & Lake St,9036,Franklin St & Jackson Blvd,Subscriber,Male,1986
+9076304,3/31/2016 16:13,3/31/2016 16:55,2568,2548,9044,State St & Randolph St,9035,Streeter Dr & Grand Ave,Customer,,
+9076293,3/31/2016 16:13,3/31/2016 16:20,4798,431,9172,Rush St & Cedar St,9181,LaSalle St & Illinois St,Subscriber,Male,1985
+9076281,3/31/2016 16:12,3/31/2016 16:24,4582,723,9081,Daley Center Plaza,9140,Dearborn Pkwy & Delaware Pl,Subscriber,Female,1977
+9076270,3/31/2016 16:11,3/31/2016 16:24,2655,780,9077,Clinton St & Madison St,9350,Ashland Ave & Chicago Ave,Subscriber,Male,1977
+9076255,3/31/2016 16:10,3/31/2016 16:15,4821,297,9223,Clifton Ave & Armitage Ave,9302,Sheffield Ave & Wrightwood Ave,Subscriber,Female,1984
+9076245,3/31/2016 16:09,3/31/2016 16:22,1799,732,9073,Jefferson St & Monroe St,9195,Columbus Dr & Randolph St,Subscriber,Male,1988
+9076232,3/31/2016 16:09,3/31/2016 16:20,4805,714,9048,Larrabee St & Kingsbury St,9192,Canal St & Adams St,Subscriber,Male,1963
+9076222,3/31/2016 16:08,3/31/2016 16:29,3589,1266,9043,Michigan Ave & Washington St,9035,Streeter Dr & Grand Ave,Customer,,
+9076212,3/31/2016 16:07,3/31/2016 16:18,4324,651,9108,Halsted St & Polk St,9342,Wolcott Ave & Polk St,Subscriber,Male,1989
+9076202,3/31/2016 16:06,3/31/2016 16:12,1447,353,9164,Franklin St & Lake St,9036,Franklin St & Jackson Blvd,Subscriber,Male,1990
+9076191,3/31/2016 16:05,3/31/2016 16:16,1716,659,9199,Wabash Ave & Grand Ave,9118,Sedgwick St & North Ave,Subscriber,Male,1957
+9076175,3/31/2016 16:03,3/31/2016 16:14,1453,642,9215,Damen Ave & Madison St,9077,Clinton St & Madison St,Subscriber,Male,1963
+9076164,3/31/2016 16:03,3/31/2016 16:06,3483,215,9117,Wilton Ave & Belmont Ave,9296,Broadway & Belmont Ave,Subscriber,Male,1989
+9076151,3/31/2016 16:02,3/31/2016 16:30,877,1717,9313,Lakeview Ave & Fullerton Pkwy,9465,Marine Dr & Ainslie St,Subscriber,Female,1966
+9076140,3/31/2016 16:01,3/31/2016 16:04,2840,222,9075,Canal St & Jackson Blvd,9077,Clinton St & Madison St,Subscriber,Male,1982
+9076124,3/31/2016 15:59,3/31/2016 16:05,4790,378,9117,Wilton Ave & Belmont Ave,9067,Sheffield Ave & Fullerton Ave,Subscriber,Male,1982
+9076111,3/31/2016 15:58,3/31/2016 16:03,4655,325,9485,Sawyer Ave & Irving Park Rd,9480,Kedzie Ave & Montrose Ave,Subscriber,Male,1988
+9076093,3/31/2016 15:56,3/31/2016 16:01,1743,246,9142,McClurg Ct & Erie St,9110,Dearborn St & Erie St,Subscriber,Male,1968
+9076079,3/31/2016 15:55,3/31/2016 16:01,399,347,9111,Sedgwick St & Huron St,9182,Wells St & Elm St,Subscriber,Male,1985
+9076063,3/31/2016 15:53,3/31/2016 16:01,4169,482,9123,California Ave & Milwaukee Ave,9069,Damen Ave & Pierce Ave,Subscriber,Male,1986
+9076051,3/31/2016 15:52,3/31/2016 15:55,1538,203,9304,Broadway & Waveland Ave,9240,Sheridan Rd & Irving Park Rd,Subscriber,Male,1963
+9076038,3/31/2016 15:51,3/31/2016 15:58,4559,419,9480,Kedzie Ave & Montrose Ave,9490,Troy St & Elston Ave,Subscriber,Male,1982
+9076028,3/31/2016 15:50,3/31/2016 15:54,4494,233,9212,Orleans St & Ohio St,9074,Kingsbury St & Erie St,Subscriber,Male,1983
+9076018,3/31/2016 15:48,3/31/2016 16:06,2367,1022,9037,Dearborn St & Adams St,9059,Wabash Ave & Roosevelt Rd,Subscriber,Female,1977
+9076004,3/31/2016 15:47,3/31/2016 16:01,3728,833,9261,Hermitage Ave & Polk St,9129,Blue Island Ave & 18th St,Subscriber,Female,1989
+9075990,3/31/2016 15:45,3/31/2016 16:02,4458,1031,9150,Fort Dearborn Dr & 31st St,9072,Wabash Ave & 16th St,Subscriber,Male,1962
+9075978,3/31/2016 15:43,3/31/2016 16:05,770,1340,9109,900 W Harrison St,9225,Halsted St & Dickens Ave,Subscriber,Female,1989
+9075963,3/31/2016 15:42,3/31/2016 15:45,2589,202,9252,Greenwood Ave & 47th St,9267,Lake Park Ave & 47th St,Subscriber,Male,1966
+9075950,3/31/2016 15:39,3/31/2016 15:42,1999,168,9072,Wabash Ave & 16th St,9273,Michigan Ave & 18th St,Subscriber,Male,1980
+9075940,3/31/2016 15:37,3/31/2016 16:01,4819,1399,9292,Southport Ave & Clark St,9331,Halsted St & Blackhawk St (*),Subscriber,Male,1975
+9075929,3/31/2016 15:36,3/31/2016 15:47,3831,662,9106,State St & Pearson St,9091,Clinton St & Washington Blvd,Subscriber,Male,1965
+9075918,3/31/2016 15:35,3/31/2016 15:44,1440,547,9098,LaSalle St & Washington St,9197,Michigan Ave & Madison St,Customer,,
+9075908,3/31/2016 15:34,3/31/2016 15:37,3336,192,9016,Paulina Ave & North Ave,9058,Marshfield Ave & Cortland St,Subscriber,Male,1983
+9075897,3/31/2016 15:33,3/31/2016 16:06,2858,1991,9289,Wells St & Concord Ln,9085,Michigan Ave & Oak St,Customer,,
+9075878,3/31/2016 15:31,3/31/2016 15:38,4804,399,9286,Franklin St & Quincy St,9043,Michigan Ave & Washington St,Subscriber,Male,1981
+9075864,3/31/2016 15:31,3/31/2016 15:37,2003,381,9233,Sangamon St & Washington Blvd (*),9107,Desplaines St & Jackson Blvd,Subscriber,Male,1975
+9075846,3/31/2016 15:29,3/31/2016 15:38,1085,532,9041,Federal St & Polk St,9091,Clinton St & Washington Blvd,Subscriber,Male,1975
+9075836,3/31/2016 15:28,3/31/2016 15:32,4828,254,9038,Clark St & Lake St,9091,Clinton St & Washington Blvd,Subscriber,Male,1979
+9075821,3/31/2016 15:26,3/31/2016 15:43,1788,1035,9419,Lake Park Ave & 53rd St,9428,Dorchester Ave & 63rd St,Subscriber,Male,1987
+9075806,3/31/2016 15:23,3/31/2016 15:30,4678,384,9322,Kimbark Ave & 53rd St,9345,Lake Park Ave & 56th St,Subscriber,Male,1991
+9075794,3/31/2016 15:22,3/31/2016 15:50,3716,1668,9131,Lincoln Ave & Belmont Ave,9506,Spaulding Ave & Armitage Ave,Subscriber,Male,1981
+9075776,3/31/2016 15:20,3/31/2016 15:31,1341,625,9134,Peoria St & Jackson Blvd,9098,LaSalle St & Washington St,Subscriber,Male,1982
+9075754,3/31/2016 15:19,3/31/2016 15:26,1298,386,9341,Adler Planetarium,9003,Shedd Aquarium,Customer,,
+9075729,3/31/2016 15:18,3/31/2016 15:24,1980,380,9341,Adler Planetarium,9003,Shedd Aquarium,Customer,,
+9075711,3/31/2016 15:16,3/31/2016 15:37,1299,1256,9035,Streeter Dr & Grand Ave,9273,Michigan Ave & 18th St,Customer,,
+9075673,3/31/2016 15:14,3/31/2016 15:18,2989,254,9052,Michigan Ave & Lake St,9051,Clark St & Randolph St,Subscriber,Male,1971
+9075653,3/31/2016 15:12,3/31/2016 15:44,4458,1930,9328,Ellis Ave & 58th St,9150,Fort Dearborn Dr & 31st St,Subscriber,Male,1962
+9075640,3/31/2016 15:10,3/31/2016 15:15,3744,256,9122,Ogden Ave & Congress Pkwy,9342,Wolcott Ave & Polk St,Subscriber,Male,1954
+9075627,3/31/2016 15:08,3/31/2016 15:20,4655,695,9491,Talman Ave & Addison St,9485,Sawyer Ave & Irving Park Rd,Subscriber,Female,1984
+9075615,3/31/2016 15:06,3/31/2016 15:15,1858,514,9076,Lake Shore Dr & Monroe St,9003,Shedd Aquarium,Customer,,
+9075601,3/31/2016 15:06,3/31/2016 15:14,1085,523,9081,Daley Center Plaza,9041,Federal St & Polk St,Subscriber,Male,1982
+9075587,3/31/2016 15:04,3/31/2016 15:10,1117,320,9031,Franklin St & Chicago Ave,9291,Wells St & Evergreen Ave,Subscriber,Female,1989
+9075574,3/31/2016 15:02,3/31/2016 15:10,739,471,9059,Wabash Ave & Roosevelt Rd,9075,Canal St & Jackson Blvd,Subscriber,Male,1976
+9075559,3/31/2016 14:59,3/31/2016 15:09,4748,640,9076,Lake Shore Dr & Monroe St,9035,Streeter Dr & Grand Ave,Customer,,
+9075545,3/31/2016 14:57,3/31/2016 15:02,4744,333,9077,Clinton St & Madison St,9100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1984
+9075532,3/31/2016 14:55,3/31/2016 15:06,3658,643,9157,Lake Shore Dr & Wellington Ave,9312,Clarendon Ave & Gordon Ter,Subscriber,Male,1987
+9075517,3/31/2016 14:53,3/31/2016 15:06,3778,764,9018,Wacker Dr & Washington St,9176,Clark St & Elm St,Subscriber,Female,1986
+9075496,3/31/2016 14:51,3/31/2016 14:58,4285,428,9071,Morgan St & Lake St,9086,Eckhart Park,Subscriber,Male,1973
+9075486,3/31/2016 14:49,3/31/2016 15:02,4178,836,9049,Dearborn St & Monroe St,9145,Mies van der Rohe Way & Chestnut St,Subscriber,Female,1957
+9075470,3/31/2016 14:45,3/31/2016 14:55,563,600,9048,Larrabee St & Kingsbury St,9081,Daley Center Plaza,Subscriber,Male,1982
+9075458,3/31/2016 14:43,3/31/2016 14:45,4779,116,9045,Michigan Ave & Congress Pkwy,9045,Michigan Ave & Congress Pkwy,Customer,,
+9075445,3/31/2016 14:39,3/31/2016 14:49,3035,603,9036,Franklin St & Jackson Blvd,9241,Morgan St & Polk St,Subscriber,Male,1960
+9075428,3/31/2016 14:37,3/31/2016 14:49,482,710,9283,LaSalle St & Jackson Blvd,9005,State St & Harrison St,Customer,,
+9075407,3/31/2016 14:35,3/31/2016 15:00,1271,1464,9289,Wells St & Concord Ln,9046,Wells St & Walton St,Customer,,
+9075393,3/31/2016 14:34,3/31/2016 14:46,3385,750,9217,May St & Fulton St,9283,LaSalle St & Jackson Blvd,Subscriber,Male,1983
+9075373,3/31/2016 14:31,3/31/2016 14:41,4129,620,9447,Glenwood Ave & Morse Ave,9467,Western Ave & Lunt Ave,Subscriber,Male,1981
+9075359,3/31/2016 14:27,3/31/2016 14:31,1887,245,9037,Dearborn St & Adams St,9174,Canal St & Madison St,Subscriber,Male,1980
+9075347,3/31/2016 14:23,3/31/2016 14:27,628,267,9087,Racine Ave & Fullerton Ave,9327,Sheffield Ave & Webster Ave,Subscriber,Female,1995
+9075333,3/31/2016 14:18,3/31/2016 14:25,4262,435,9036,Franklin St & Jackson Blvd,9133,Kingsbury St & Kinzie St,Subscriber,Male,1990
+9075317,3/31/2016 14:17,3/31/2016 14:32,2731,894,9183,Damen Ave & Augusta Blvd,9084,Union Ave & Grand Ave,Subscriber,Male,1987
+9075296,3/31/2016 14:15,3/31/2016 15:06,1232,3096,9076,Lake Shore Dr & Monroe St,9076,Lake Shore Dr & Monroe St,Customer,,
+9075278,3/31/2016 14:13,3/31/2016 14:31,912,1062,9076,Lake Shore Dr & Monroe St,9006,Dusable Harbor,Customer,,
+9075261,3/31/2016 14:11,3/31/2016 14:19,3892,481,9032,Racine Ave & Congress Pkwy,9202,Halsted St & 18th St,Subscriber,Male,1978
+9075243,3/31/2016 14:10,3/31/2016 14:17,2088,450,9025,Michigan Ave & Pearson St,9026,McClurg Ct & Illinois St,Subscriber,Female,1956
+9075232,3/31/2016 14:09,3/31/2016 14:38,51,1784,9304,Broadway & Waveland Ave,9180,Ritchie Ct & Banks St,Subscriber,Female,1974
+9075219,3/31/2016 14:07,3/31/2016 14:12,1338,316,9049,Dearborn St & Monroe St,9164,Franklin St & Lake St,Subscriber,Male,1956
+9075203,3/31/2016 14:06,3/31/2016 14:23,3561,1018,9035,Streeter Dr & Grand Ave,9286,Franklin St & Quincy St,Subscriber,Male,1976
+9075184,3/31/2016 14:04,3/31/2016 14:27,4609,1371,9220,Hampden Ct & Diversey Pkwy,9035,Streeter Dr & Grand Ave,Subscriber,Male,1986
+9075170,3/31/2016 14:02,3/31/2016 14:10,3485,476,9312,Clarendon Ave & Gordon Ter,9295,Broadway & Argyle St,Subscriber,Male,1990
+9075158,3/31/2016 14:01,3/31/2016 14:09,3745,485,9148,State St & 33rd St,9150,Fort Dearborn Dr & 31st St,Subscriber,Male,1967
+9075144,3/31/2016 13:58,3/31/2016 14:26,4038,1660,9229,Southport Ave & Roscoe St,9020,Sheffield Ave & Kingsbury St,Subscriber,Male,1963
+9075134,3/31/2016 13:56,3/31/2016 14:01,3674,262,9343,Racine Ave & Wrightwood Ave,9067,Sheffield Ave & Fullerton Ave,Subscriber,Female,1993
+9075120,3/31/2016 13:55,3/31/2016 14:20,1460,1508,9003,Shedd Aquarium,9006,Dusable Harbor,Customer,,
+9075108,3/31/2016 13:54,3/31/2016 14:07,49,763,9090,Millennium Park,9035,Streeter Dr & Grand Ave,Customer,,
+9075096,3/31/2016 13:53,3/31/2016 14:22,1225,1711,9249,Montrose Harbor,9254,Pine Grove Ave & Irving Park Rd,Customer,,
+9075081,3/31/2016 13:52,3/31/2016 14:00,4640,479,9241,Morgan St & Polk St,9261,Hermitage Ave & Polk St,Subscriber,Male,1953
+9075067,3/31/2016 13:50,3/31/2016 14:16,3472,1551,9076,Lake Shore Dr & Monroe St,9341,Adler Planetarium,Customer,,
+9075055,3/31/2016 13:48,3/31/2016 14:11,2066,1393,9035,Streeter Dr & Grand Ave,9199,Wabash Ave & Grand Ave,Customer,,
+9075044,3/31/2016 13:47,3/31/2016 13:56,808,527,9047,State St & Kinzie St,9056,Desplaines St & Kinzie St,Subscriber,Male,1989
+9075033,3/31/2016 13:46,3/31/2016 13:59,1964,780,9268,Lake Shore Dr & North Blvd,9340,Clark St & Wrightwood Ave,Customer,,
+9075017,3/31/2016 13:44,3/31/2016 13:57,3213,774,9434,Ogden Ave & Roosevelt Rd,9241,Morgan St & Polk St,Subscriber,Male,1991
+9075004,3/31/2016 13:43,3/31/2016 14:00,503,1011,9025,Michigan Ave & Pearson St,9106,State St & Pearson St,Subscriber,Male,1972
+9074991,3/31/2016 13:41,3/31/2016 14:01,4250,1197,9061,Wood St & Milwaukee Ave,9018,Wacker Dr & Washington St,Customer,,
+9074981,3/31/2016 13:40,3/31/2016 13:43,4302,161,9164,Franklin St & Lake St,9066,Clinton St & Lake St,Subscriber,Male,1954
+9074970,3/31/2016 13:39,3/31/2016 13:41,3636,134,9110,Dearborn St & Erie St,9337,Clark St & Chicago Ave,Subscriber,Male,1987
+9074960,3/31/2016 13:36,3/31/2016 13:40,3892,249,9241,Morgan St & Polk St,9032,Racine Ave & Congress Pkwy,Subscriber,Male,1985
+9074950,3/31/2016 13:35,3/31/2016 13:37,354,131,9077,Clinton St & Madison St,9018,Wacker Dr & Washington St,Subscriber,Male,1989
+9074939,3/31/2016 13:33,3/31/2016 13:38,3235,282,9006,Dusable Harbor,9043,Michigan Ave & Washington St,Subscriber,Male,1986
+9074928,3/31/2016 13:30,3/31/2016 13:49,752,1105,9157,Lake Shore Dr & Wellington Ave,9249,Montrose Harbor,Customer,,
+9074916,3/31/2016 13:30,3/31/2016 13:52,1460,1346,9076,Lake Shore Dr & Monroe St,9003,Shedd Aquarium,Customer,,
+9074902,3/31/2016 13:28,3/31/2016 13:57,3423,1710,9183,Damen Ave & Augusta Blvd,9037,Dearborn St & Adams St,Subscriber,Female,1985
+9074889,3/31/2016 13:25,3/31/2016 13:31,2185,340,9035,Streeter Dr & Grand Ave,9035,Streeter Dr & Grand Ave,Customer,,
+9074876,3/31/2016 13:23,3/31/2016 13:24,262,66,9352,Jeffery Blvd & 67th St,9352,Jeffery Blvd & 67th St,Subscriber,Male,1985
+9074864,3/31/2016 13:22,3/31/2016 13:27,3022,263,9234,Clark St & Montrose Ave,9231,Sheridan Rd & Montrose Ave,Subscriber,Male,1966
+9074854,3/31/2016 13:21,3/31/2016 13:33,3255,710,9073,Jefferson St & Monroe St,9217,May St & Fulton St,Subscriber,Male,1990
+9074843,3/31/2016 13:20,3/31/2016 13:27,993,438,9090,Millennium Park,9076,Lake Shore Dr & Monroe St,Customer,,
+9074830,3/31/2016 13:16,3/31/2016 13:43,558,1594,9097,Museum Campus,9177,Theater on the Lake,Subscriber,Male,1978
+9074813,3/31/2016 13:14,3/31/2016 13:17,2198,191,9126,Clark St & North Ave,9094,Clark St & Armitage Ave,Subscriber,Male,1963
+9074800,3/31/2016 13:11,3/31/2016 13:18,725,389,9287,Franklin St & Monroe St,9198,Green St & Madison St,Subscriber,Female,1988
+9074788,3/31/2016 13:10,3/31/2016 13:16,467,397,9299,Halsted St & Roscoe St,9156,Clark St & Wellington Ave,Subscriber,Male,1980
+9074775,3/31/2016 13:08,3/31/2016 13:16,1715,496,9084,Union Ave & Grand Ave,9098,LaSalle St & Washington St,Subscriber,Male,1968
+9074765,3/31/2016 13:06,3/31/2016 13:16,3242,576,9110,Dearborn St & Erie St,9172,Rush St & Cedar St,Subscriber,Female,1990
+9074754,3/31/2016 13:04,3/31/2016 13:07,4341,132,9044,State St & Randolph St,9051,Clark St & Randolph St,Subscriber,Female,1982
+9074740,3/31/2016 13:03,3/31/2016 13:12,234,523,9126,Clark St & North Ave,9085,Michigan Ave & Oak St,Subscriber,Male,1955
+9074728,3/31/2016 13:02,3/31/2016 13:09,4064,423,9100,Orleans St & Merchandise Mart Plaza,9264,Stetson Ave & South Water St,Subscriber,Male,1960
+9074707,3/31/2016 13:00,3/31/2016 13:24,3522,1443,9195,Columbus Dr & Randolph St,9394,Clark St & 9th St (AMLI),Subscriber,Male,1977
+9074693,3/31/2016 12:59,3/31/2016 13:08,2699,483,9164,Franklin St & Lake St,9197,Michigan Ave & Madison St,Subscriber,Male,1993
+9074680,3/31/2016 12:58,3/31/2016 13:26,4730,1650,9076,Lake Shore Dr & Monroe St,9076,Lake Shore Dr & Monroe St,Customer,,
+9074668,3/31/2016 12:57,3/31/2016 13:09,3958,721,9211,St. Clair St & Erie St,9091,Clinton St & Washington Blvd,Subscriber,Female,1982
+9074653,3/31/2016 12:56,3/31/2016 13:21,3038,1518,9232,Pine Grove Ave & Waveland Ave,9085,Michigan Ave & Oak St,Subscriber,Male,1956
+9074641,3/31/2016 12:54,3/31/2016 12:57,4725,176,9195,Columbus Dr & Randolph St,9090,Millennium Park,Subscriber,Male,1964
+9074631,3/31/2016 12:52,3/31/2016 13:00,3547,508,9287,Franklin St & Monroe St,9107,Desplaines St & Jackson Blvd,Subscriber,Male,1975
+9074618,3/31/2016 12:50,3/31/2016 13:04,4102,847,9018,Wacker Dr & Washington St,9142,McClurg Ct & Erie St,Subscriber,Male,1965
+9074605,3/31/2016 12:49,3/31/2016 13:16,4372,1650,9035,Streeter Dr & Grand Ave,9164,Franklin St & Lake St,Customer,,
+9074595,3/31/2016 12:48,3/31/2016 12:53,3326,350,9052,Michigan Ave & Lake St,9145,Mies van der Rohe Way & Chestnut St,Subscriber,Male,1970
+9074584,3/31/2016 12:47,3/31/2016 13:06,4220,1135,9025,Michigan Ave & Pearson St,9077,Clinton St & Madison St,Subscriber,Male,1979
+9074573,3/31/2016 12:45,3/31/2016 12:52,787,382,9111,Sedgwick St & Huron St,9199,Wabash Ave & Grand Ave,Subscriber,Male,1986
+9074562,3/31/2016 12:44,3/31/2016 12:49,1602,285,9199,Wabash Ave & Grand Ave,9026,McClurg Ct & Illinois St,Subscriber,Male,1968
+9074552,3/31/2016 12:42,3/31/2016 12:47,3584,277,9329,Lake Shore Dr & Diversey Pkwy,9034,Cannon Dr & Fullerton Ave,Subscriber,Male,1987
+9074541,3/31/2016 12:38,3/31/2016 13:50,1232,4337,9076,Lake Shore Dr & Monroe St,9003,Shedd Aquarium,Customer,,
+9074531,3/31/2016 12:40,3/31/2016 13:03,49,1393,9164,Franklin St & Lake St,9090,Millennium Park,Customer,,
+9074518,3/31/2016 12:38,3/31/2016 12:43,1393,295,9133,Kingsbury St & Kinzie St,9091,Clinton St & Washington Blvd,Subscriber,Male,1986
+9074508,3/31/2016 12:37,3/31/2016 12:42,4445,322,9098,LaSalle St & Washington St,9077,Clinton St & Madison St,Subscriber,Female,1971
+9074494,3/31/2016 12:36,3/31/2016 12:42,2201,379,9274,Racine Ave & 15th St,9241,Morgan St & Polk St,Subscriber,Female,1990
+9074482,3/31/2016 12:34,3/31/2016 12:49,2427,880,9231,Sheridan Rd & Montrose Ave,9152,Lincoln Ave & Diversey Pkwy,Subscriber,Male,1972
+9074472,3/31/2016 12:33,3/31/2016 12:42,1901,587,9210,Ashland Ave & Division St,9359,Larrabee St & Division St,Subscriber,Male,1974
+9074455,3/31/2016 12:31,3/31/2016 12:35,3303,243,9048,Larrabee St & Kingsbury St,9031,Franklin St & Chicago Ave,Subscriber,Female,1978
+9074440,3/31/2016 12:30,3/31/2016 12:36,128,396,9056,Desplaines St & Kinzie St,9092,Carpenter St & Huron St,Subscriber,Male,1982
+9074423,3/31/2016 12:28,3/31/2016 12:30,914,136,9018,Wacker Dr & Washington St,9077,Clinton St & Madison St,Subscriber,Male,1989
+9074407,3/31/2016 12:26,3/31/2016 12:36,4434,628,9192,Canal St & Adams St,9284,Michigan Ave & Jackson Blvd,Subscriber,Female,1965
+9074389,3/31/2016 12:23,3/31/2016 12:45,722,1299,9076,Lake Shore Dr & Monroe St,9003,Shedd Aquarium,Customer,,
+9074379,3/31/2016 12:23,3/31/2016 12:31,2485,482,9286,Franklin St & Quincy St,9074,Kingsbury St & Erie St,Subscriber,Male,1984
+9074369,3/31/2016 12:22,3/31/2016 12:29,683,402,9383,Ashland Ave & Harrison St,9021,Aberdeen St & Jackson Blvd,Subscriber,Female,1978
+9074356,3/31/2016 12:21,3/31/2016 12:39,2060,1077,9293,Broadway & Wilson Ave,9475,Washtenaw Ave & Lawrence Ave,Subscriber,Male,1964
+9074345,3/31/2016 12:19,3/31/2016 12:31,760,749,9318,Southport Ave & Irving Park Rd,9303,Broadway & Cornelia Ave,Subscriber,Female,1982
+9074335,3/31/2016 12:17,3/31/2016 12:31,3735,807,9037,Dearborn St & Adams St,9199,Wabash Ave & Grand Ave,Subscriber,Male,1980
+9074324,3/31/2016 12:16,3/31/2016 12:20,1499,264,9099,Lake Shore Dr & Ohio St,9199,Wabash Ave & Grand Ave,Subscriber,Male,1968
+9074312,3/31/2016 12:14,3/31/2016 12:46,1980,1943,9090,Millennium Park,9341,Adler Planetarium,Customer,,
+9074298,3/31/2016 12:12,3/31/2016 12:20,1367,476,9067,Sheffield Ave & Fullerton Ave,9067,Sheffield Ave & Fullerton Ave,Subscriber,Male,1994
+9074285,3/31/2016 12:11,3/31/2016 12:26,4666,866,9331,Halsted St & Blackhawk St (*),9112,Green St & Randolph St,Subscriber,Female,1984
+9074273,3/31/2016 12:10,3/31/2016 12:36,2984,1552,9090,Millennium Park,9097,Museum Campus,Customer,,
+9074261,3/31/2016 12:08,3/31/2016 12:38,1801,1817,9505,Winchester Ave & Elston Ave,9173,Mies van der Rohe Way & Chicago Ave,Subscriber,Female,1991
+9074241,3/31/2016 12:06,3/31/2016 12:14,1459,493,9212,Orleans St & Ohio St,9099,Lake Shore Dr & Ohio St,Subscriber,Male,1963
+9074215,3/31/2016 12:03,3/31/2016 12:20,1539,1021,9192,Canal St & Adams St,9211,St. Clair St & Erie St,Subscriber,Male,1980
+9074198,3/31/2016 12:02,3/31/2016 12:13,3037,677,9260,Kedzie Ave & Milwaukee Ave,9483,Keeler Ave & Irving Park Rd,Subscriber,Male,1957
+9074180,3/31/2016 12:00,3/31/2016 12:13,2291,778,9057,Clinton St & Roosevelt Rd,9261,Hermitage Ave & Polk St,Subscriber,Female,1989
+9074166,3/31/2016 11:59,3/31/2016 12:10,1341,690,9049,Dearborn St & Monroe St,9091,Clinton St & Washington Blvd,Subscriber,Male,1954
+9074151,3/31/2016 11:57,3/31/2016 12:08,4730,646,9076,Lake Shore Dr & Monroe St,9035,Streeter Dr & Grand Ave,Customer,,
+9074133,3/31/2016 11:55,3/31/2016 12:31,1460,2111,9052,Michigan Ave & Lake St,9090,Millennium Park,Customer,,
+9074119,3/31/2016 11:53,3/31/2016 11:57,116,262,9019,Loomis St & Taylor St (*),9241,Morgan St & Polk St,Subscriber,Male,1994
+9074109,3/31/2016 11:51,3/31/2016 11:58,4505,400,9134,Peoria St & Jackson Blvd,9283,LaSalle St & Jackson Blvd,Customer,,
+9074094,3/31/2016 11:50,3/31/2016 12:14,854,1431,9076,Lake Shore Dr & Monroe St,9026,McClurg Ct & Illinois St,Customer,,
+9074081,3/31/2016 11:49,3/31/2016 11:59,1259,626,9035,Streeter Dr & Grand Ave,9047,State St & Kinzie St,Subscriber,Female,1981
+9074069,3/31/2016 11:47,3/31/2016 12:05,877,1083,9085,Michigan Ave & Oak St,9035,Streeter Dr & Grand Ave,Customer,,
+9074058,3/31/2016 11:45,3/31/2016 11:55,898,642,9261,Hermitage Ave & Polk St,9075,Canal St & Jackson Blvd,Subscriber,Male,1987
+9074044,3/31/2016 11:42,3/31/2016 11:57,3113,875,9029,Noble St & Milwaukee Ave,9038,Clark St & Lake St,Subscriber,Female,1991
+9074033,3/31/2016 11:41,3/31/2016 11:54,2249,790,9287,Franklin St & Monroe St,9321,Wabash Ave & 8th St,Subscriber,Male,1956
+9074022,3/31/2016 11:40,3/31/2016 11:45,3984,292,9286,Franklin St & Quincy St,9081,Daley Center Plaza,Subscriber,Male,1984
+9074011,3/31/2016 11:39,3/31/2016 11:45,1887,340,9039,Wabash Ave & Adams St,9098,LaSalle St & Washington St,Customer,,
+9073992,3/31/2016 11:37,3/31/2016 11:45,4633,450,9066,Clinton St & Lake St,9110,Dearborn St & Erie St,Subscriber,Male,1955
+9073980,3/31/2016 11:36,3/31/2016 12:02,4773,1567,9342,Wolcott Ave & Polk St,9211,St. Clair St & Erie St,Subscriber,Male,1973
+9073965,3/31/2016 11:34,3/31/2016 11:37,1636,192,9420,Ellis Ave & 55th St,9328,Ellis Ave & 58th St,Subscriber,Female,1981
+9073951,3/31/2016 11:32,3/31/2016 11:37,3153,304,9141,Clark St & Lincoln Ave,9118,Sedgwick St & North Ave,Subscriber,Male,1978
+9073939,3/31/2016 11:31,3/31/2016 11:43,4811,706,9238,Ravenswood Ave & Montrose Ave (*),9250,Ashland Ave & Wellington Ave,Subscriber,Female,1977
+9073927,3/31/2016 11:30,3/31/2016 11:35,1846,293,9350,Ashland Ave & Chicago Ave,9186,Ogden Ave & Race Ave,Subscriber,Male,1977
+9073914,3/31/2016 11:28,3/31/2016 11:34,2783,345,9206,Halsted St & Archer Ave,9339,Emerald Ave & 31st St,Subscriber,Male,1964
+9073896,3/31/2016 11:27,3/31/2016 11:31,342,251,9122,Ogden Ave & Congress Pkwy,9317,Wood St & Taylor St,Subscriber,Female,1988
+9073880,3/31/2016 11:24,3/31/2016 11:30,2117,331,9192,Canal St & Adams St,9098,LaSalle St & Washington St,Subscriber,Male,1980
+9073862,3/31/2016 11:22,3/31/2016 11:34,1327,710,9164,Franklin St & Lake St,9134,Peoria St & Jackson Blvd,Subscriber,Male,1981
+9073842,3/31/2016 11:20,3/31/2016 11:41,131,1250,9338,Calumet Ave & 18th St,9164,Franklin St & Lake St,Subscriber,Male,1989
+9073823,3/31/2016 11:17,3/31/2016 11:22,499,310,9334,Lake Shore Dr & Belmont Ave,9300,Broadway & Barry Ave,Subscriber,Male,1949
+9073809,3/31/2016 11:15,3/31/2016 11:28,4004,748,9041,Federal St & Polk St,9255,Indiana Ave & Roosevelt Rd,Customer,,
+9073795,3/31/2016 11:13,3/31/2016 11:28,4111,908,9469,St. Louis Ave & Balmoral Ave,9311,Leavitt St & Lawrence Ave,Subscriber,Male,1986
+9073782,3/31/2016 11:11,3/31/2016 11:28,3048,1044,9056,Desplaines St & Kinzie St,9052,Michigan Ave & Lake St,Customer,,
+9073769,3/31/2016 11:07,3/31/2016 11:12,2453,298,9188,Greenview Ave & Fullerton Ave,9067,Sheffield Ave & Fullerton Ave,Subscriber,Male,1981
+9073758,3/31/2016 11:06,3/31/2016 11:25,722,1171,9026,McClurg Ct & Illinois St,9076,Lake Shore Dr & Monroe St,Customer,,
+9073744,3/31/2016 11:03,3/31/2016 11:12,1826,516,9211,St. Clair St & Erie St,9133,Kingsbury St & Kinzie St,Subscriber,Male,1960
+9073725,3/31/2016 11:00,3/31/2016 11:15,1036,897,9240,Sheridan Rd & Irving Park Rd,9327,Sheffield Ave & Webster Ave,Subscriber,Male,1993
+9073692,3/31/2016 10:57,3/31/2016 11:08,3865,691,9044,State St & Randolph St,9364,Larrabee St & Oak St,Subscriber,Female,1977
+9073672,3/31/2016 10:55,3/31/2016 11:00,2668,307,9125,Rush St & Hubbard St,9026,McClurg Ct & Illinois St,Subscriber,Female,1985
+9073654,3/31/2016 10:53,3/31/2016 11:02,1139,556,9186,Ogden Ave & Race Ave,9100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1981
+9073637,3/31/2016 10:50,3/31/2016 10:57,1942,388,9203,Western Ave & 21st St,9434,Ogden Ave & Roosevelt Rd,Subscriber,Male,1949
+9073624,3/31/2016 10:49,3/31/2016 11:15,1652,1577,9490,Troy St & Elston Ave,9216,California Ave & Division St,Subscriber,Male,1983
+9073601,3/31/2016 10:47,3/31/2016 11:03,659,963,9192,Canal St & Adams St,9024,Fairbanks Ct & Grand Ave,Subscriber,Male,1964
+9073583,3/31/2016 10:45,3/31/2016 10:49,606,254,9345,Lake Park Ave & 56th St,9423,University Ave & 57th St,Subscriber,Male,1982
+9073564,3/31/2016 10:41,3/31/2016 10:57,3220,936,9333,Ashland Ave & Blackhawk St,9181,LaSalle St & Illinois St,Subscriber,Male,1990
+9073547,3/31/2016 10:39,3/31/2016 10:53,2866,838,9132,Wentworth Ave & 24th St,9148,State St & 33rd St,Subscriber,Male,1949
+9073522,3/31/2016 10:36,3/31/2016 10:40,4633,255,9100,Orleans St & Merchandise Mart Plaza,9066,Clinton St & Lake St,Subscriber,Male,1972
+9073501,3/31/2016 10:33,3/31/2016 10:49,1175,997,9210,Ashland Ave & Division St,9066,Clinton St & Lake St,Customer,,
+9073486,3/31/2016 10:31,3/31/2016 10:38,4583,396,9463,Clark St & Berwyn Ave,9344,Ravenswood Ave & Lawrence Ave,Subscriber,Female,1947
+9073467,3/31/2016 10:29,3/31/2016 10:38,1906,526,9037,Dearborn St & Adams St,9337,Clark St & Chicago Ave,Subscriber,Male,1984
+9073444,3/31/2016 10:27,3/31/2016 10:31,464,226,9287,Franklin St & Monroe St,9051,Clark St & Randolph St,Subscriber,Male,1967
+9073428,3/31/2016 10:25,3/31/2016 10:27,472,140,9050,Clark St & Congress Pkwy,9394,Clark St & 9th St (AMLI),Subscriber,Male,1987
+9073414,3/31/2016 10:23,3/31/2016 10:32,3152,557,9021,Aberdeen St & Jackson Blvd,9346,Ada St & Washington Blvd,Subscriber,Male,1965
+9073392,3/31/2016 10:17,3/31/2016 10:22,3478,302,9346,Ada St & Washington Blvd,9233,Sangamon St & Washington Blvd (*),Subscriber,Female,1985
+9073377,3/31/2016 10:13,3/31/2016 10:16,2410,187,9066,Clinton St & Lake St,9100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1985
+9073366,3/31/2016 10:11,3/31/2016 10:18,300,402,9287,Franklin St & Monroe St,9133,Kingsbury St & Kinzie St,Subscriber,Female,1988
+9073355,3/31/2016 10:07,3/31/2016 10:21,4682,863,9080,Aberdeen St & Monroe St,9199,Wabash Ave & Grand Ave,Subscriber,Male,1961
+9073340,3/31/2016 10:05,3/31/2016 10:10,1920,296,9080,Aberdeen St & Monroe St,9146,Loomis St & Jackson Blvd,Subscriber,Male,1999
+9073319,3/31/2016 10:02,3/31/2016 10:16,2859,822,9077,Clinton St & Madison St,9383,Ashland Ave & Harrison St,Subscriber,Female,1957
+9073300,3/31/2016 9:59,3/31/2016 10:20,3279,1250,9167,Damen Ave & Coulter St,9279,Halsted St & 35th St (*),Customer,,
+9073282,3/31/2016 9:57,3/31/2016 10:01,4661,246,9165,Clark St & Grace St,9304,Broadway & Waveland Ave,Subscriber,Male,1972
+9073262,3/31/2016 9:53,3/31/2016 10:01,2880,461,9141,Clark St & Lincoln Ave,9113,Bissell St & Armitage Ave,Subscriber,Female,1991
+9073251,3/31/2016 9:51,3/31/2016 9:54,523,124,9183,Damen Ave & Augusta Blvd,9128,Damen Ave & Chicago Ave,Subscriber,Male,1977
+9073240,3/31/2016 9:49,3/31/2016 10:10,1140,1262,9168,Michigan Ave & 14th St,9047,State St & Kinzie St,Subscriber,Male,1969
+9073229,3/31/2016 9:45,3/31/2016 9:52,2162,431,9032,Racine Ave & Congress Pkwy,9134,Peoria St & Jackson Blvd,Subscriber,Female,1957
+9073205,3/31/2016 9:40,3/31/2016 9:56,4583,938,9299,Halsted St & Roscoe St,9463,Clark St & Berwyn Ave,Subscriber,Male,1981
+9073192,3/31/2016 9:39,3/31/2016 10:00,4743,1276,9091,Clinton St & Washington Blvd,9143,Sedgwick St & Webster Ave,Subscriber,Male,1950
+9073175,3/31/2016 9:37,3/31/2016 9:42,3980,329,9056,Desplaines St & Kinzie St,9212,Orleans St & Ohio St,Subscriber,Male,1984
+9073146,3/31/2016 9:31,3/31/2016 9:45,1115,849,9129,Blue Island Ave & 18th St,9287,Franklin St & Monroe St,Subscriber,Male,1979
+9073132,3/31/2016 9:26,3/31/2016 10:55,3865,5374,9090,Millennium Park,9044,State St & Randolph St,Subscriber,Male,1962
+9073122,3/31/2016 9:21,3/31/2016 11:58,4774,9406,9255,Indiana Ave & Roosevelt Rd,9035,Streeter Dr & Grand Ave,Customer,,
+9073107,3/31/2016 9:18,3/31/2016 9:22,4039,244,9370,Calumet Ave & 21st St,9042,Wabash Ave & Cermak Rd,Subscriber,Female,1977
+9073089,3/31/2016 9:13,3/31/2016 9:15,1954,125,9225,Halsted St & Dickens Ave,9113,Bissell St & Armitage Ave,Subscriber,Male,1987
+9073058,3/31/2016 9:08,3/31/2016 9:14,252,361,9193,State St & 29th St,9184,State St & 35th St,Subscriber,Female,1988
+9073040,3/31/2016 9:06,3/31/2016 9:19,882,800,9138,Clybourn Ave & Division St,9091,Clinton St & Washington Blvd,Subscriber,Male,1972
+9073026,3/31/2016 9:04,3/31/2016 9:09,3235,302,9099,Lake Shore Dr & Ohio St,9173,Mies van der Rohe Way & Chicago Ave,Subscriber,Female,1956
+9073013,3/31/2016 9:03,3/31/2016 9:09,1992,325,9286,Franklin St & Quincy St,9038,Clark St & Lake St,Subscriber,Male,1981
+9072995,3/31/2016 9:02,3/31/2016 9:13,386,680,9091,Clinton St & Washington Blvd,9046,Wells St & Walton St,Subscriber,Male,1965
+9072980,3/31/2016 9:00,3/31/2016 9:07,1115,409,9202,Halsted St & 18th St,9129,Blue Island Ave & 18th St,Subscriber,Female,1979
+9072967,3/31/2016 8:59,3/31/2016 9:07,1708,486,9059,Wabash Ave & Roosevelt Rd,9089,Financial Pl & Congress Pkwy,Subscriber,Male,1991
+9072953,3/31/2016 8:57,3/31/2016 9:05,2436,514,9344,Ravenswood Ave & Lawrence Ave,9244,Ravenswood Ave & Irving Park Rd,Subscriber,Male,1971
+9072935,3/31/2016 8:55,3/31/2016 9:13,670,1072,9289,Wells St & Concord Ln,9283,LaSalle St & Jackson Blvd,Subscriber,Male,1969
+9072922,3/31/2016 8:54,3/31/2016 8:56,3882,167,9038,Clark St & Lake St,9164,Franklin St & Lake St,Subscriber,Male,1990
+9072902,3/31/2016 8:52,3/31/2016 8:58,4010,348,9089,Financial Pl & Congress Pkwy,9075,Canal St & Jackson Blvd,Subscriber,Male,1981
+9072887,3/31/2016 8:50,3/31/2016 8:58,145,431,9091,Clinton St & Washington Blvd,9051,Clark St & Randolph St,Subscriber,Male,1954
+9072871,3/31/2016 8:49,3/31/2016 8:58,3782,525,9346,Ada St & Washington Blvd,9287,Franklin St & Monroe St,Subscriber,Male,1974
+9072851,3/31/2016 8:47,3/31/2016 8:52,763,296,9020,Sheffield Ave & Kingsbury St,9138,Clybourn Ave & Division St,Subscriber,Male,1989
+9072841,3/31/2016 8:46,3/31/2016 9:06,978,1150,9128,Damen Ave & Chicago Ave,9161,Rush St & Superior St,Subscriber,Female,1977
+9072826,3/31/2016 8:45,3/31/2016 8:51,1812,363,9175,Wells St & Polk St,9287,Franklin St & Monroe St,Subscriber,Male,1976
+9072815,3/31/2016 8:44,3/31/2016 8:57,3760,770,9119,Ashland Ave & Lake St,9040,LaSalle St & Adams St,Subscriber,Male,1970
+9072802,3/31/2016 8:43,3/31/2016 8:51,2603,515,9174,Canal St & Madison St,9283,LaSalle St & Jackson Blvd,Subscriber,Male,1963
+9072791,3/31/2016 8:41,3/31/2016 9:01,1895,1172,9097,Museum Campus,9003,Shedd Aquarium,Customer,,
+9072776,3/31/2016 8:40,3/31/2016 8:46,2072,385,9091,Clinton St & Washington Blvd,9081,Daley Center Plaza,Subscriber,Male,1988
+9072759,3/31/2016 8:39,3/31/2016 8:40,2461,112,9091,Clinton St & Washington Blvd,9066,Clinton St & Lake St,Subscriber,Male,1983
+9072741,3/31/2016 8:37,3/31/2016 8:42,197,274,9007,Field Blvd & South Water St,9194,Wabash Ave & Wacker Pl,Subscriber,Male,1951
+9072728,3/31/2016 8:36,3/31/2016 8:44,4669,476,9174,Canal St & Madison St,9033,State St & Van Buren St,Subscriber,Male,1957
+9072718,3/31/2016 8:36,3/31/2016 8:51,4751,928,9085,Michigan Ave & Oak St,9049,Dearborn St & Monroe St,Subscriber,Male,1977
+9072700,3/31/2016 8:34,3/31/2016 8:37,603,190,9029,Noble St & Milwaukee Ave,9054,Ogden Ave & Chicago Ave,Subscriber,Male,1989
+9072688,3/31/2016 8:32,3/31/2016 8:38,3181,349,9192,Canal St & Adams St,9100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1961
+9072674,3/31/2016 8:31,3/31/2016 8:42,2159,636,9075,Canal St & Jackson Blvd,9125,Rush St & Hubbard St,Subscriber,Male,1960
+9072659,3/31/2016 8:30,3/31/2016 8:34,240,262,9303,Broadway & Cornelia Ave,9334,Lake Shore Dr & Belmont Ave,Subscriber,Male,1985
+9072646,3/31/2016 8:29,3/31/2016 8:35,774,316,9503,Drake Ave & Fullerton Ave,9260,Kedzie Ave & Milwaukee Ave,Subscriber,Female,1968
+9072635,3/31/2016 8:28,3/31/2016 8:33,2106,273,9146,Loomis St & Jackson Blvd,9134,Peoria St & Jackson Blvd,Subscriber,Male,1986
+9072625,3/31/2016 8:28,3/31/2016 8:33,2889,313,9195,Columbus Dr & Randolph St,9197,Michigan Ave & Madison St,Subscriber,Female,1981
+9072613,3/31/2016 8:27,3/31/2016 8:40,1053,762,9014,Morgan St & 18th St,9261,Hermitage Ave & Polk St,Subscriber,Female,1980
+9072602,3/31/2016 8:27,3/31/2016 8:31,1085,255,9080,Aberdeen St & Monroe St,9107,Desplaines St & Jackson Blvd,Subscriber,Male,1986
+9072587,3/31/2016 8:26,3/31/2016 8:34,785,478,9122,Ogden Ave & Congress Pkwy,9186,Ogden Ave & Race Ave,Subscriber,Male,1973
+9072577,3/31/2016 8:25,3/31/2016 8:31,2717,323,9027,Larrabee St & North Ave,9048,Larrabee St & Kingsbury St,Subscriber,Male,1983
+9072562,3/31/2016 8:24,3/31/2016 8:34,279,610,9227,Southport Ave & Waveland Ave,9344,Ravenswood Ave & Lawrence Ave,Subscriber,Male,1989
+9072549,3/31/2016 8:23,3/31/2016 8:32,3854,563,9048,Larrabee St & Kingsbury St,9181,LaSalle St & Illinois St,Subscriber,Male,1980
+9072537,3/31/2016 8:22,3/31/2016 8:29,411,424,9089,Financial Pl & Congress Pkwy,9077,Clinton St & Madison St,Subscriber,Male,1975
+9072524,3/31/2016 8:21,3/31/2016 8:34,267,749,9255,Indiana Ave & Roosevelt Rd,9287,Franklin St & Monroe St,Subscriber,Female,1990
+9072514,3/31/2016 8:20,3/31/2016 8:30,1341,565,9195,Columbus Dr & Randolph St,9049,Dearborn St & Monroe St,Subscriber,Male,1959
+9072502,3/31/2016 8:19,3/31/2016 8:29,1525,563,9007,Field Blvd & South Water St,9049,Dearborn St & Monroe St,Subscriber,Male,1987
+9072491,3/31/2016 8:19,3/31/2016 8:35,3537,985,9340,Clark St & Wrightwood Ave,9048,Larrabee St & Kingsbury St,Subscriber,Male,1980
+9072480,3/31/2016 8:18,3/31/2016 8:23,2514,249,9026,McClurg Ct & Illinois St,9047,State St & Kinzie St,Subscriber,Male,1986
+9072468,3/31/2016 8:18,3/31/2016 8:30,1260,754,9186,Ogden Ave & Race Ave,9191,Canal St & Monroe St (*),Subscriber,Male,1982
+9072457,3/31/2016 8:18,3/31/2016 8:24,285,377,9346,Ada St & Washington Blvd,9018,Wacker Dr & Washington St,Subscriber,Male,1977
+9072444,3/31/2016 8:16,3/31/2016 8:23,2492,386,9471,Francisco Ave & Foster Ave,9477,Manor Ave & Leland Ave,Subscriber,Male,1964
+9072431,3/31/2016 8:15,3/31/2016 8:19,3551,207,9277,Ashland Ave & Grand Ave,9119,Ashland Ave & Lake St,Subscriber,Female,1987
+9072420,3/31/2016 8:15,3/31/2016 8:25,2100,632,9111,Sedgwick St & Huron St,9040,LaSalle St & Adams St,Subscriber,Female,1964
+9072409,3/31/2016 8:14,3/31/2016 8:17,399,142,9056,Desplaines St & Kinzie St,9066,Clinton St & Lake St,Subscriber,Male,1963
+9072395,3/31/2016 8:14,3/31/2016 8:21,2477,447,9264,Stetson Ave & South Water St,9142,McClurg Ct & Erie St,Subscriber,Male,1985
+9072383,3/31/2016 8:13,3/31/2016 8:27,3521,856,9077,Clinton St & Madison St,9106,State St & Pearson St,Subscriber,Male,1972
+9072371,3/31/2016 8:12,3/31/2016 8:23,3569,642,9192,Canal St & Adams St,9043,Michigan Ave & Washington St,Subscriber,Male,1977
+9072358,3/31/2016 8:10,3/31/2016 8:17,2016,428,9036,Franklin St & Jackson Blvd,9096,Desplaines St & Randolph St,Subscriber,Male,1980
+9072344,3/31/2016 8:09,3/31/2016 8:17,4066,449,9183,Damen Ave & Augusta Blvd,9219,Damen Ave & Cortland St,Subscriber,Female,1984
+9072331,3/31/2016 8:08,3/31/2016 8:34,194,1571,9276,California Ave & North Ave,9107,Desplaines St & Jackson Blvd,Subscriber,Female,1989
+9072318,3/31/2016 8:07,3/31/2016 8:14,649,386,9091,Clinton St & Washington Blvd,9103,Clinton St & Polk St (*),Subscriber,Male,1970
+9072294,3/31/2016 8:05,3/31/2016 8:15,4680,585,9192,Canal St & Adams St,9052,Michigan Ave & Lake St,Subscriber,Male,1970
+9072278,3/31/2016 8:04,3/31/2016 8:26,4468,1352,9232,Pine Grove Ave & Waveland Ave,9331,Halsted St & Blackhawk St (*),Subscriber,Male,1991
+9072267,3/31/2016 8:02,3/31/2016 8:07,337,300,9045,Michigan Ave & Congress Pkwy,9283,LaSalle St & Jackson Blvd,Subscriber,Male,1994
+9072252,3/31/2016 8:01,3/31/2016 8:08,4466,409,9183,Damen Ave & Augusta Blvd,9016,Paulina Ave & North Ave,Subscriber,Female,1970
+9072240,3/31/2016 7:59,3/31/2016 8:07,291,478,9023,Orleans St & Elm St (*),9084,Union Ave & Grand Ave,Subscriber,Male,1984
+9072229,3/31/2016 7:58,3/31/2016 8:02,4312,202,9159,Claremont Ave & Hirsch St,9069,Damen Ave & Pierce Ave,Subscriber,Male,1989
+9072217,3/31/2016 7:58,3/31/2016 8:05,1492,429,9140,Dearborn Pkwy & Delaware Pl,9133,Kingsbury St & Kinzie St,Subscriber,Male,1989
+9072204,3/31/2016 7:56,3/31/2016 8:01,578,271,9460,Clark St & Bryn Mawr Ave,9461,Broadway & Ridge Ave,Subscriber,Male,1986
+9072193,3/31/2016 7:55,3/31/2016 8:05,2972,565,9220,Hampden Ct & Diversey Pkwy,9141,Clark St & Lincoln Ave,Subscriber,Female,1991
+9072182,3/31/2016 7:54,3/31/2016 7:58,42,219,9287,Franklin St & Monroe St,9077,Clinton St & Madison St,Subscriber,Male,1952
+9072171,3/31/2016 7:53,3/31/2016 8:17,2767,1437,9278,Wallace St & 35th St,9287,Franklin St & Monroe St,Subscriber,Female,1986
+9072159,3/31/2016 7:52,3/31/2016 7:59,4338,413,9133,Kingsbury St & Kinzie St,9077,Clinton St & Madison St,Subscriber,Male,1945
+9072148,3/31/2016 7:50,3/31/2016 8:02,1843,683,9058,Marshfield Ave & Cortland St,9289,Wells St & Concord Ln,Subscriber,Male,1970
+9072137,3/31/2016 7:49,3/31/2016 8:02,203,799,9106,State St & Pearson St,9192,Canal St & Adams St,Subscriber,Male,1989
+9072127,3/31/2016 7:48,3/31/2016 8:00,4225,696,9091,Clinton St & Washington Blvd,9031,Franklin St & Chicago Ave,Subscriber,Male,1980
+9072117,3/31/2016 7:48,3/31/2016 8:00,4220,744,9091,Clinton St & Washington Blvd,9025,Michigan Ave & Pearson St,Subscriber,Male,1964
+9072105,3/31/2016 7:47,3/31/2016 7:50,4684,198,9312,Clarendon Ave & Gordon Ter,9240,Sheridan Rd & Irving Park Rd,Subscriber,Male,1992
+9072095,3/31/2016 7:46,3/31/2016 7:51,1647,253,9091,Clinton St & Washington Blvd,9164,Franklin St & Lake St,Subscriber,Male,1946
+9072082,3/31/2016 7:45,3/31/2016 7:51,3392,376,9323,Sheridan Rd & Lawrence Ave,9344,Ravenswood Ave & Lawrence Ave,Subscriber,Male,1991
+9072068,3/31/2016 7:43,3/31/2016 7:49,845,368,9340,Clark St & Wrightwood Ave,9067,Sheffield Ave & Fullerton Ave,Subscriber,Male,1991
+9072056,3/31/2016 7:42,3/31/2016 8:06,4368,1440,9143,Sedgwick St & Webster Ave,9066,Clinton St & Lake St,Subscriber,Male,1973
+9072044,3/31/2016 7:41,3/31/2016 7:45,4674,208,9337,Clark St & Chicago Ave,9211,St. Clair St & Erie St,Subscriber,Male,1982
+9072034,3/31/2016 7:40,3/31/2016 7:46,631,360,9037,Dearborn St & Adams St,9287,Franklin St & Monroe St,Subscriber,Male,1957
+9072023,3/31/2016 7:39,3/31/2016 7:47,1055,503,9212,Orleans St & Ohio St,9286,Franklin St & Quincy St,Subscriber,Male,1981
+9072013,3/31/2016 7:38,3/31/2016 7:45,2898,426,9280,Morgan St & 31st St,9278,Wallace St & 35th St,Subscriber,Female,1983
+9072003,3/31/2016 7:38,3/31/2016 7:46,1670,491,9195,Columbus Dr & Randolph St,9286,Franklin St & Quincy St,Subscriber,Male,1980
+9071990,3/31/2016 7:35,3/31/2016 7:40,3391,322,9287,Franklin St & Monroe St,9043,Michigan Ave & Washington St,Subscriber,Male,1959
+9071974,3/31/2016 7:33,3/31/2016 7:50,1317,998,9288,Larrabee St & Armitage Ave,9051,Clark St & Randolph St,Subscriber,Male,1986
+9071961,3/31/2016 7:32,3/31/2016 7:36,2433,268,9074,Kingsbury St & Erie St,9212,Orleans St & Ohio St,Subscriber,Female,1964
+9071945,3/31/2016 7:30,3/31/2016 7:37,4725,435,9033,State St & Van Buren St,9075,Canal St & Jackson Blvd,Subscriber,Female,1959
+9071926,3/31/2016 7:28,3/31/2016 7:45,2884,1014,9207,Emerald Ave & 28th St,9037,Dearborn St & Adams St,Subscriber,Female,1971
+9071915,3/31/2016 7:27,3/31/2016 7:30,1659,170,9129,Blue Island Ave & 18th St,9015,Racine Ave & 18th St,Subscriber,Male,1987
+9071899,3/31/2016 7:25,3/31/2016 7:34,4337,558,9231,Sheridan Rd & Montrose Ave,9344,Ravenswood Ave & Lawrence Ave,Subscriber,Male,1984
+9071887,3/31/2016 7:24,3/31/2016 7:33,3025,590,9192,Canal St & Adams St,9199,Wabash Ave & Grand Ave,Subscriber,Male,1978
+9071877,3/31/2016 7:23,3/31/2016 7:39,2109,975,9077,Clinton St & Madison St,9342,Wolcott Ave & Polk St,Subscriber,Male,1972
+9071866,3/31/2016 7:21,3/31/2016 7:27,4738,339,9023,Orleans St & Elm St (*),9085,Michigan Ave & Oak St,Subscriber,Male,1972
+9071856,3/31/2016 7:20,3/31/2016 7:27,4629,394,9021,Aberdeen St & Jackson Blvd,9286,Franklin St & Quincy St,Subscriber,Male,1981
+9071845,3/31/2016 7:18,3/31/2016 7:23,811,312,9036,Franklin St & Jackson Blvd,9100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1992
+9071835,3/31/2016 7:17,3/31/2016 7:22,1647,286,9074,Kingsbury St & Erie St,9212,Orleans St & Ohio St,Subscriber,Male,1982
+9071823,3/31/2016 7:16,3/31/2016 7:26,2417,601,9018,Wacker Dr & Washington St,9108,Halsted St & Polk St,Subscriber,Male,1993
+9071808,3/31/2016 7:14,3/31/2016 7:26,3281,687,9141,Clark St & Lincoln Ave,9212,Orleans St & Ohio St,Subscriber,Male,1981
+9071796,3/31/2016 7:13,3/31/2016 7:20,1114,428,9166,Ashland Ave & Wrightwood Ave,9067,Sheffield Ave & Fullerton Ave,Subscriber,Male,1987
+9071783,3/31/2016 7:11,3/31/2016 7:19,4302,485,9091,Clinton St & Washington Blvd,9048,Larrabee St & Kingsbury St,Subscriber,Male,1976
+9071772,3/31/2016 7:10,3/31/2016 7:23,2436,748,9461,Broadway & Ridge Ave,9344,Ravenswood Ave & Lawrence Ave,Subscriber,Male,1964
+9071760,3/31/2016 7:08,3/31/2016 7:15,504,455,9174,Canal St & Madison St,9031,Franklin St & Chicago Ave,Subscriber,Male,1981
+9071750,3/31/2016 7:06,3/31/2016 7:19,603,780,9258,Logan Blvd & Elston Ave,9500,Central Park Ave & Elbridge Ave,Subscriber,Male,1989
+9071740,3/31/2016 7:05,3/31/2016 7:21,1536,964,9075,Canal St & Jackson Blvd,9317,Wood St & Taylor St,Subscriber,Female,1975
+9071720,3/31/2016 7:03,3/31/2016 7:12,1670,529,9018,Wacker Dr & Washington St,9195,Columbus Dr & Randolph St,Subscriber,Male,1978
+9071703,3/31/2016 7:01,3/31/2016 7:17,3621,960,9156,Clark St & Wellington Ave,9182,Wells St & Elm St,Subscriber,Male,1989
+9071686,3/31/2016 7:00,3/31/2016 7:04,677,281,9045,Michigan Ave & Congress Pkwy,9036,Franklin St & Jackson Blvd,Subscriber,Male,1989
+9071670,3/31/2016 6:58,3/31/2016 7:26,2985,1675,9066,Clinton St & Lake St,9262,Halsted St & 37th St,Subscriber,Male,1985
+9071658,3/31/2016 6:57,3/31/2016 7:02,4406,316,9075,Canal St & Jackson Blvd,9080,Aberdeen St & Monroe St,Subscriber,Male,1962
+9071645,3/31/2016 6:55,3/31/2016 7:01,1264,392,9074,Kingsbury St & Erie St,9091,Clinton St & Washington Blvd,Subscriber,Male,1978
+9071634,3/31/2016 6:54,3/31/2016 7:19,4356,1491,9334,Lake Shore Dr & Belmont Ave,9031,Franklin St & Chicago Ave,Subscriber,Female,1976
+9071622,3/31/2016 6:52,3/31/2016 7:14,2205,1302,9300,Broadway & Barry Ave,9052,Michigan Ave & Lake St,Subscriber,Male,1992
+9071611,3/31/2016 6:49,3/31/2016 7:01,2634,714,9277,Ashland Ave & Grand Ave,9191,Canal St & Monroe St (*),Subscriber,Male,1986
+9071598,3/31/2016 6:47,3/31/2016 6:51,4168,239,9144,Larrabee St & Webster Ave,9118,Sedgwick St & North Ave,Subscriber,Male,1981
+9071582,3/31/2016 6:44,3/31/2016 6:56,388,724,9199,Wabash Ave & Grand Ave,9283,LaSalle St & Jackson Blvd,Subscriber,Female,1986
+9071569,3/31/2016 6:43,3/31/2016 6:52,3523,553,9091,Clinton St & Washington Blvd,9047,State St & Kinzie St,Subscriber,Female,1967
+9071554,3/31/2016 6:41,3/31/2016 7:01,4023,1180,9338,Calumet Ave & 18th St,9099,Lake Shore Dr & Ohio St,Subscriber,Female,1981
+9071541,3/31/2016 6:39,3/31/2016 6:41,1507,144,9254,Pine Grove Ave & Irving Park Rd,9240,Sheridan Rd & Irving Park Rd,Subscriber,Male,1992
+9071527,3/31/2016 6:35,3/31/2016 6:46,2291,638,9198,Green St & Madison St,9057,Clinton St & Roosevelt Rd,Subscriber,Female,1987
+9071514,3/31/2016 6:29,3/31/2016 6:41,954,716,9255,Indiana Ave & Roosevelt Rd,9052,Michigan Ave & Lake St,Subscriber,Female,1983
+9071503,3/31/2016 6:30,3/31/2016 6:47,3971,1007,9295,Broadway & Argyle St,9300,Broadway & Barry Ave,Subscriber,Male,1977
+9071493,3/31/2016 6:28,3/31/2016 6:41,3601,821,9176,Clark St & Elm St,9098,LaSalle St & Washington St,Subscriber,Female,1965
+9071482,3/31/2016 6:26,3/31/2016 6:36,3858,628,9075,Canal St & Jackson Blvd,9181,LaSalle St & Illinois St,Subscriber,Male,1990
+9071472,3/31/2016 6:24,3/31/2016 6:41,3412,1012,9333,Ashland Ave & Blackhawk St,9075,Canal St & Jackson Blvd,Subscriber,Male,1982
+9071461,3/31/2016 6:22,3/31/2016 6:33,3490,681,9026,McClurg Ct & Illinois St,9192,Canal St & Adams St,Subscriber,Male,1977
+9071444,3/31/2016 6:18,3/31/2016 6:24,71,354,9091,Clinton St & Washington Blvd,9283,LaSalle St & Jackson Blvd,Subscriber,Male,1955
+9071422,3/31/2016 6:15,3/31/2016 6:38,300,1432,9290,Kedzie Ave & Palmer Ct,9287,Franklin St & Monroe St,Subscriber,Male,1982
+9071409,3/31/2016 6:11,3/31/2016 6:19,2909,440,9283,LaSalle St & Jackson Blvd,9125,Rush St & Hubbard St,Subscriber,Male,1993
+9071388,3/31/2016 6:07,3/31/2016 6:09,2366,117,9131,Lincoln Ave & Belmont Ave,9230,Lincoln Ave & Roscoe St,Subscriber,Male,1986
+9071374,3/31/2016 6:04,3/31/2016 6:19,897,893,9075,Canal St & Jackson Blvd,9317,Wood St & Taylor St,Subscriber,Female,1968
+9071360,3/31/2016 5:50,3/31/2016 5:55,601,291,9181,LaSalle St & Illinois St,9024,Fairbanks Ct & Grand Ave,Subscriber,Female,1984
+9071348,3/31/2016 5:43,3/31/2016 5:54,388,648,9118,Sedgwick St & North Ave,9199,Wabash Ave & Grand Ave,Subscriber,Male,1957
+9071337,3/31/2016 5:37,3/31/2016 5:43,1792,352,9053,Wells St & Huron St,9085,Michigan Ave & Oak St,Subscriber,Male,1963
+9071327,3/31/2016 5:32,3/31/2016 5:36,467,227,9340,Clark St & Wrightwood Ave,9302,Sheffield Ave & Wrightwood Ave,Subscriber,Female,1992
+9071316,3/31/2016 5:24,3/31/2016 5:39,4536,907,9382,Western Ave & Congress Pkwy,9055,Halsted St & Roosevelt Rd,Subscriber,Female,1988
+9071305,3/31/2016 4:51,3/31/2016 4:58,2343,427,9418,Ellis Ave & 53rd St,9415,Calumet Ave & 51st St,Subscriber,Male,1991
+9071295,3/31/2016 4:04,3/31/2016 4:09,3596,352,9312,Clarendon Ave & Gordon Ter,9240,Sheridan Rd & Irving Park Rd,Subscriber,Male,1964
+9071285,3/31/2016 2:16,3/31/2016 2:34,1730,1082,9176,Clark St & Elm St,9059,Wabash Ave & Roosevelt Rd,Subscriber,Male,1979
+9071275,3/31/2016 1:28,3/31/2016 1:32,2460,247,9250,Ashland Ave & Wellington Ave,9166,Ashland Ave & Wrightwood Ave,Subscriber,Male,1991
+9071264,3/31/2016 0:43,3/31/2016 2:28,2195,6327,9199,Wabash Ave & Grand Ave,9035,Streeter Dr & Grand Ave,Customer,,
+9071253,3/31/2016 0:19,3/31/2016 0:23,2241,251,9420,Ellis Ave & 55th St,9418,Ellis Ave & 53rd St,Subscriber,Male,1994
+9071241,3/31/2016 0:00,3/31/2016 0:03,555,216,9454,Broadway & Granville Ave,9451,Sheridan Rd & Loyola Ave,Subscriber,Male,1989
